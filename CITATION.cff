@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kirti"
+  given-names: "Pranav"
+  orcid: ""
+- family-names: "Eghtesady"
+  given-names: "Priooz"
+  orcid: "https://orcid.org/0000-0001-7161-8391"
+- family-names: "Garand"
+  given-names: "Mathieu"
+  orcid: "https://orcid.org/0000-0003-4243-853X"
+title: "AxioParse: Streamlining Axiom Microbiome Assay data wrangling and dataset generation"
+version: 1.0.0
+date-released: 2025-07-05
+url: "https://github.com/Eghtesady-Lab-Bioinformatics/axioparse"

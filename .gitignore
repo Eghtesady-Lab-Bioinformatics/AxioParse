@@ -1,0 +1,10 @@
+axioparse_pipeline/__pycache__
+axioparse_pipeline_tests/__pycache__
+axioparse_pipeline.egg-info/
+tmp*/
+data_out/
+myenv/
+playground.ipynb
+.pytest_cache
+build/
+.env

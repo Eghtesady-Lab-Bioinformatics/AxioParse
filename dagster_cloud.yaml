@@ -1,0 +1,4 @@
+locations:
+  - location_name: axioparse_pipeline
+    code_source:
+      package_name: axioparse_pipeline
