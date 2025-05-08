@@ -12,18 +12,19 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 - `data/array_species_coverage.csv`: A sample species coverage table in the same format as one downloaded directly from MiDAS.
 
 ## :beginner: Getting Started
-1. Pull the repository contents to your device with the command `git clone https://github.com/Eghtesady-Lab-Bioinformatics/axioparse.git`
-2. If you're using windows, you will need to download Windows Subsystem for Linux to continue forward. Follow the instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install). If you're on a Mac, you can skip this step.
+1. If you do not already have python installed, install it by following the instructions [here](https://www.python.org/downloads/). If you already have python installed, verify the version is 3.9 or above. You can verify the version with the terminal command `python --version` 
+1. Pull the repository contents to your device with the terminal command `git clone https://github.com/Eghtesady-Lab-Bioinformatics/axioparse.git`
+2. If you're using Windows, you will need to download Windows Subsystem for Linux to continue forward. Follow the instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install). If you're on a Mac, you can skip this step.
 3. Using a terminal window (WSL terminal if using Windows) and `cd` commands, enter this project's directory. Follow the instructions [here](https://library.qiime2.org/quickstart) to create a Conda virtual environment for this project and install the QIIME2 package. I used the Tiny Distribution, but any should work. 
 4. In the same terminal window, activate the conda environment with `conda activate env_name`. 
 3. Once the conda environment is activated, use the command `pip install .` to install all dependencies into the virtual environment. 
 3. Create a file called .env in the root directory. In the file, write `NCBI_EMAIL = "your.email@domain.com"`. On the next line, write `NCBI_KEY = "ncbi_key_here"`. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317).
-5. Make an empty folder  `/data_out/` in the root directory.
+5. Make an empty folder `/data_out/` in the root directory.
 6. Inside the .gitignore file, add a new line and type `data/`.
 7. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
 8. Execute the pipeline by selecting "Materialize All" in the top right.
 9. The output files will be written into `/data_out/`.
-10. When finished, click `Ctrl + c` (Windows) or `Cmd + c` on Mac to kill the process. 
+10. When finished, navigate back to the terminal window and click `Ctrl + c` (Windows) or `Cmd + c` (Mac) to kill the process. 
 
 ## :inbox_tray: Input
 - `otu_table.txt`: OTU table downloaded directly from MiDAS software
