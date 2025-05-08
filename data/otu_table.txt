@@ -1,0 +1,2001 @@
+Target Description	a483920-2391847-070525-424_A01	a174305-8347510-070525-424_A02	a592183-1029384-070525-424_A03	a381927-5647382-070525-424_A04	a849201-8374629-070525-424_A05	a720394-6583721-070525-424_A06	a483920-2391847-070525-428_A01	a174305-8347510-070525-428_A02	a592183-1029384-070525-428_A03	a381927-5647382-070525-428_A04	a849201-8374629-070525-428_A05	a720394-6583721-070525-428_A06
+Escherichia coli SCI-07 draft (68 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020038545 draft (2 frags)												
+Bacteroidaceae bacterium MS4 draft (35 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary
+Bacteroides ovatus ATCC 8483 draft (54 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli MS 107-1 draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium PC4.1 draft (78 frags)												
+Streptococcus pneumoniae GA41301 draft (17 frags)												
+Kosakonia radicincitans UMEnt01/12 draft (71 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus avium ATCC 14025 draft (13 frags)												
+Coprobacter fastidiosus NSB1 draft (95 frags)												
+Human papillomavirus type 6 complete genome isolate 104												
+Streptococcus thermophilus plasmid pSMQ172 												
+"Saccharomyces cerevisiae T73, combined chrs"												
+Streptococcus mutans 11A1 draft (111 frags)												
+Faecalibacterium prausnitzii A2-165 draft (115 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli KTE33 draft (220 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli UM146 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae CCRI 1974M2 draft (130 frags)												
+Lactobacillus jensenii JV-V16 draft (2 frags)												
+Enterococcus faecium UAA947 draft (75 frags)												
+Enterococcus faecalis Com 2 draft (18 frags)												
+Bacteroides eggerthii 1_2_48FAA draft (85 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Pasteurella multocida 93002 draft (317 frags)										Secondary		
+Lactococcus phage jm3					Secondary	Secondary					Secondary	Secondary
+Pseudomonas aeruginosa BWH030 draft (66 frags)												
+Escherichia coli KTE102 draft (64 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O7:K1 str. CE10 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas stutzeri strain 28a24												
+Pasteurella multocida subsp. multocida str. 3480 chromosome										Secondary		
+Actinomyces johnsonii F0510 draft (431 frags)												
+Staphylococcus warneri strain NGS-ED-1001 draft (12 frags)												
+Klebsiella pneumoniae IS46 draft (957 frags)												
+Lactobacillus paracasei subsp. paracasei Lpp46 draft (90 frags)												
+Yersinia pestis Nepal516 plasmid pPCP 												
+Streptococcus thermophilus plasmid pER13 												
+Escherichia coli B94 draft (57 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus iniae IUSA1 draft (296 frags)				Secondary		Secondary				Secondary		Secondary
+Collinsella aerofaciens JCM 10188 Collinsella aerofaciens ATCC 25986 draft (25 frags)		DETECTED					DETECTED	DETECTED	Secondary			
+Escherichia coli O145:H28 str. 2009C-3292 draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella oxytoca MGH 41 draft (37 frags)												
+Lactobacillus johnsonii DPC 6026 chromosome												
+Escherichia coli HVH 111 (4-7039018) draft (23 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli plasmid pMUR050 												
+Propionibacterium acnes HL037PA3 draft (69 frags)												
+Escherichia coli UMEA 3140-1 draft (68 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis UAA707 Enterococcus faecium EnGen0305 draft (54 frags)												
+Klebsiella pneumoniae strain MRSN6920 draft (184 frags)												
+Escherichia coli 3003 draft (8 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli DEC12D draft (88 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O5:K4(L):H4 str. ATCC 23502 draft (160 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Lactococcus lactis phage p2					Secondary	Secondary					Secondary	Secondary
+Brome mosaic virus mRNA for 1a protein												
+Streptococcus agalactiae CCUG 39096 A draft (21 frags)												
+Enterococcus faecalis B3336 draft (34 frags)												
+Streptococcus pneumoniae GA47281 draft (16 frags)												
+Streptococcus mutans TCI-256 draft (110 frags)												
+Escherichia coli M605 draft (162 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae BIDMC 7A draft (29 frags)												
+Enterococcus faecalis B4018 draft (45 frags)												
+Streptococcus agalactiae MC621 draft (45 frags)												
+Enterococcus faecium Pat2-2 Enterococcus faecium EnGen0376 draft (82 frags)												
+Methanobrevibacter smithii TS145B draft (54 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Lactococcus lactis DPC3147 plasmid pMRC01 												
+Enterococcus faecium E980 draft (131 frags)												
+Enterococcus faecalis RP2S-4 draft (109 frags)												
+Corynebacterium striatum ATCC 6940 draft (176 frags)												
+Escherichia coli O69:H11 str. 07-3763 draft (19 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli EC1847 draft (527 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium UAA1280 draft (50 frags)												
+Escherichia coli O157:H7 str. K5806 draft (119 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus equi subsp. zooepidemicus BHS5 draft (11 frags)				Secondary		Secondary				Secondary		Secondary
+Proteus mirabilis HI4320 chromosome												
+Enterococcus faecalis B284 draft (19 frags)												
+Bacteroides fragilis str. S36L12 draft (90 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Propionibacterium acnes strain HL411PA1 draft (55 frags)												
+Streptococcus mutans 5SM3 draft (86 frags)												
+Streptococcus agalactiae LMG 15081 draft (16 frags)												
+Streptococcus mutans TCI-162 draft (130 frags)												
+Propionibacterium acnes HL056PA1 draft (46 frags)												
+Escherichia coli O111:NM str. K6728 draft (149 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus garvieae TRF1 draft (112 frags)												
+Escherichia coli PA3 draft (508 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0304777.4 draft (142 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes GA06023 draft (420 frags)												
+Salmonella enterica subsp. arizonae serovar 62:z4 z23:- str. RSK2980 chromosome												
+Human papillomavirus type 6 complete genome isolate CAC231												
+Enterococcus faecium V689 draft (256 frags)												
+Pepino mosaic virus TGBp1 TGBp2 and TGBp3 genes genomic RNA strain US2 isolate Mu 04.18US	Secondary											
+Lactococcus lactis subsp. cremoris KW2												
+Escherichia coli 1-110-08_S1_C3 draft (133 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-005-03_S4_C1 draft (235 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus pasteuri SP1												
+Enterococcus faecalis Pan7 draft (12 frags)												
+Prevotella sp. P6B1 draft (18 frags)												
+Bacteroides fragilis str. 1009-4-F #10 draft (63 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Cucumber green mottle mosaic virus												
+Klebsiella pneumoniae BIDMC 16 draft (6 frags)												
+Streptococcus agalactiae GB00111 draft (34 frags)												
+Pepino mosaic virus isolate PepMV-Pa	Secondary											
+Edwardsiella tarda FL6-60 chromosome												
+Streptococcus dysgalactiae subsp. equisimilis 167 DNA				Secondary		Secondary				Secondary		Secondary
+Veillonella parvula HSIVP1 draft (27 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020038544 draft (9 frags)												
+Lactobacillus crispatus 214-1 draft (187 frags)												
+Escherichia coli P0298942.8 draft (442 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL103PA1 draft (14 frags)												
+Streptococcus salivarius CCHSS3				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus agalactiae GBS12 draft (95 frags)												
+Escherichia coli plasmid pEC_L8 					Secondary					Secondary	Secondary	Secondary
+Actinobacillus pleuropneumoniae serovar 1 str. 4074 draft (44 frags)												
+Streptococcus mutans S1B draft (132 frags)												
+Bacteroides fragilis CL05T00C42 draft (12 frags)	Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary		Secondary	
+Klebsiella pneumoniae CHS 29 draft (28 frags)												
+Escherichia coli 11117 draft (182 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae BIDMC 7B draft (32 frags)												
+Escherichia coli 1-182-04_S4_C2 draft (88 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes HKU QMH11M0907901												
+Escherichia coli HVH 144 (4-4451937) draft (46 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Gardnerella vaginalis ATCC 14019 chromosome				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae plasmid pKP048 												
+Escherichia coli 907446 draft (198 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA13499 draft (18 frags)												
+Atopobium sp. ICM58 draft (239 frags)												
+Klebsiella pneumoniae CHS 05 draft (28 frags)												
+Escherichia coli MS 79-10 draft (157 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA16242 draft (12 frags)												
+Eubacterium siraeum DSM 15702 draft (51 frags)	Secondary	Secondary					Secondary	Secondary				
+Enterococcus faecium Patient #1-2 Enterococcus faecium EnGen0316 draft (91 frags)												
+Lactococcus garvieae 8831 draft (87 frags)												
+Enterococcus faecalis 2924 draft (21 frags)												
+Gardnerella vaginalis 284V draft (16 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus agalactiae GB00097 draft (31 frags)												
+Enterococcus faecalis ATCC 29200 draft (123 frags)												
+Pseudomonas denitrificans ATCC 13867												
+Streptococcus bovis JB1 Streptococcus equinus JB1 draft (45 frags)				Secondary		Secondary				DETECTED	Secondary	Secondary
+Enterobacter radicincitans DSM 16656 draft (33 frags)					Secondary					Secondary	Secondary	Secondary
+Escherichia coli C732_98 draft (256 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020052309 draft (2 frags)												
+Pseudomonas aeruginosa BWHPSA024 draft (14 frags)												
+Arsenophonus endosymbiont str. Hangzhou of Nilaparvata lugens strain Hangzhou draft (21 frags)					Secondary					Secondary	Secondary	
+Chicken anemia virus isolate 98D06073												
+Bifidobacterium bifidum NCIMB 41171 draft (33 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus pyogenes SSI-1 chromosome												
+Escherichia coli strain E. coli draft (192 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus lactis subsp. lactis plasmid pIL3 												
+Enterococcus faecium PC4.1 draft (78 frags)												
+Megasphaera genomosp. type_1 str. 28L draft (34 frags)												
+Clostridium clostridioforme 90A1 draft (47 frags)		Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020064181 draft (9 frags)												
+Lactococcus phage P008					Secondary	Secondary					Secondary	Secondary
+Klebsiella pneumoniae KP2-R draft (131 frags)												
+Streptococcus sanguinis SK353 draft (17 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 63 draft (14 frags)												
+Klebsiella oxytoca KOX105 plasmid pKOX105 												
+Shigella flexneri Shi06GS48 draft (301 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli plasmid pLMO226 												
+Escherichia coli 2-177-06_S3_C1 draft (144 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Methanobrevibacter smithii TS95B draft (44 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Haemophilus haemolyticus M19501 draft (22 frags)				Secondary						Secondary		
+Escherichia coli PMV-1 plasmid pECOS88like WGS CBTO000000000 project data contig 2		Secondary		Secondary				Secondary		Secondary	Secondary	
+Escherichia coli HVH 69 (4-2837072) draft (19 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Methanobrevibacter smithii TS95C draft (37 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Propionibacterium sp. 434-HC2 draft (81 frags)												
+Streptococcus mutans TCI-146 draft (143 frags)												
+Enterococcus faecalis B350 draft (17 frags)												
+Bifidobacterium sp. 7101 draft (16 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Hepatitis G virus gene for polyprotein complete cds												
+Enterococcus faecalis TX0860 draft (88 frags)												
+Enterobacter sp. MGH 7 draft (26 frags)												
+Streptococcus pyogenes ABC020046264 draft (6 frags)												
+Escherichia coli ATCC 25922				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157 str. NCCP15738 draft (415 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae MRI Z1-200 draft (22 frags)												
+Staphylococcus epidermidis VCU128 draft (58 frags)												
+Enterobacter cancerogenus YZ1 draft (11 frags)											Secondary	
+Klebsiella pneumoniae IS33 draft (427 frags)												
+Clostridium perfringens B str. ATCC 3626 draft (98 frags)												
+Escherichia coli HVH 22 (4-2258986) draft (16 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides sp. 3_1_40A draft (186 frags)	Secondary	DETECTED	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Cronobacter malonaticus 507 draft (249 frags)											Secondary	
+Actinobacillus succinogenes 130Z chromosome				Secondary						Secondary		
+Edwardsiella hoshinae NBRC 105699 = ATCC 33379 draft (110 frags)												
+Escherichia coli E1777 draft (651 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU126 draft (80 frags)												
+Klebsiella pneumoniae BIDMC 21 draft (23 frags)												
+Corynebacterium sp. KPL1856 draft (13 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH22 draft (165 frags)												
+Clostridium sp. CL-2 draft (26 frags)	Secondary					Secondary						Secondary
+Escherichia coli UMEA 3172-1 draft (46 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE175 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa NCMG1179 draft (290 frags)												
+Escherichia coli FVEC1302 draft (149 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides sp. 3_1_19 draft (85 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 2872000 draft (202 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 180600 draft (150 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus rhamnosus HN001 draft (94 frags)												
+Pseudomonas aeruginosa BWHPSA043 draft (39 frags)												
+Lactobacillus helveticus DSM 20075 plasmid pLH1 												
+Streptococcus agalactiae LDS 623 draft (129 frags)												
+Oscillospiraceae bacterium VE202-24 draft (357 frags)	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary
+Bifidobacterium sp. 12_1_47BFAA draft (86 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. EC4501 draft (250 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Brome mosaic virus RNA3 												
+Human papillomavirus type 6 complete genome isolate 82												
+Clostridiales bacterium 9401234 draft (10 frags)												
+Streptococcus pyogenes SP5-LAU draft (20 frags)				Secondary		Secondary				Secondary		Secondary
+Escherichia coli P0298942.11 draft (205 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mitis bv. 2 str. F0392 draft (2 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli FBH1 draft (141 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE186 draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae PNI0076 draft (154 frags)												
+Pseudomonas aeruginosa M8A.2 draft (23 frags)												
+Pseudomonas aeruginosa LCT-PA220 draft (190 frags)												
+Escherichia coli B7A draft (289 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O121:H19 str. 06-3822 draft (195 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020026799 draft (10 frags)												
+Enterococcus faecium UAA825 draft (34 frags)												
+Peptostreptococcus stomatis DSM 17678 draft (74 frags)												
+Escherichia coli HVH 90 (4-3191362) draft (31 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli B109 draft (121 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain S6400 draft (130 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus sanguinis SK150 draft (27 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Pseudomonas aeruginosa JD304 draft (2058 frags)												
+Escherichia coli KTE30 Citrobacter sp. KTE30 draft (16 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus warneri SG1												
+Streptococcus mutans TCI-177 draft (110 frags)												
+Escherichia coli O104:H4 str. 11-03943 draft (42 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020044173 draft (5 frags)												
+Raoultella ornithinolytica strain TNT draft (39 frags)					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecalis B321 draft (11 frags)												
+Streptococcus pneumoniae GA43257 draft (11 frags)												
+Enterococcus faecalis 20-SD-BW-06 draft (60 frags)												
+Salmonella bongori serovar 48:z41:-- str. RKS3044											Secondary	Secondary
+Propionibacterium acnes HL005PA4 draft (34 frags)												
+Streptococcus mutans KK21 draft (2 frags)												
+Corynebacterium sp. KPL1986 draft (3 frags)												
+Pseudomonas aeruginosa LCT-PA102 draft (180 frags)												
+Klebsiella pneumoniae VA360 draft (210 frags)												
+Staphylococcus aureus subsp. aureus IS-250 draft (66 frags)												
+Staphylococcus epidermidis strain ET-024 draft (102 frags)												
+Escherichia coli UMEA 3206-1 draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus acidophilus CIP 76.13 draft (55 frags)												
+Klebsiella pneumoniae 30660/NJST258_1 plasmid pNJST258N3 												
+Escherichia coli 5.0588 draft (31 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridium perfringens ATCC 13124 chromosome												
+Lactococcus phage ul36.t1k1												
+Enterococcus faecium C68 draft (14 frags)												
+Escherichia coli O157:H7 str. 2011EL-2097 draft (178 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium C1904 draft (247 frags)												
+Escherichia coli P0305260.11 draft (128 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Lactobacillus oris F0423 draft (20 frags)												
+Actinomyces turicensis ACS-279-V-Col4 draft (10 frags)												
+Escherichia coli P0299438.10 draft (104 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE25 draft (30 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium phage P14.4												
+Citrobacter rodentium ICC168 plasmid pCROD3 												
+Bacteroides fragilis str. 1007-1-F #4 draft (168 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Enterococcus faecalis V587 draft (48 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH18 draft (167 frags)												
+Klebsiella pneumoniae str. Kp52.145 plasmid I												
+Escherichia coli HVH 196 (4-4530470) draft (20 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Gardnerella vaginalis 55152 draft (25 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli B7A draft (289 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O111:H11 str. CVM9545 draft (790 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 9B draft (570 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus fermentum MTCC 8711 draft (116 frags)												
+Streptococcus pneumoniae Taiwan19F-14 chromosome												
+Escherichia coli 99.0670 draft (131 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Dickeya solani MK10 draft (41 frags)												
+Klebsiella pneumoniae CHS 39 draft (31 frags)												
+Streptococcus pneumoniae PNI0007 draft (162 frags)												
+Escherichia coli KTE57 draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella scopos JCM 17725 draft (113 frags)												
+Enterococcus faecalis B2255 draft (32 frags)												
+Escherichia coli O157:H7 str. K5602 draft (144 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020057288 draft (4 frags)												
+Streptococcus agalactiae SS1219 draft (70 frags)												
+Escherichia coli E101 draft (95 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Lactobacillus iners LactinV 03V1-b draft (67 frags)												
+Escherichia coli BCE008_MS-13 draft (32 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-316-03_S3_C1 draft (151 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 99.0713 draft (121 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Coprococcus eutactus ATCC 27759 draft (32 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli HVH 103 (4-5904188) draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa RB draft (102 frags)												
+Escherichia coli 1-250-04_S3_C1 draft (203 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus sp. GMD4E draft (99 frags)												
+Haemophilus sp. FF7 draft (46 frags)				Secondary						Secondary		
+Streptococcus pyogenes ABC020047635 draft (7 frags)												
+Haemophilus parasuis 29775 Haemophilus parasuis 29755 draft (96 frags)												
+Enterococcus faecium TX0082 draft (151 frags)												
+Lactobacillus paracasei subsp. paracasei Lpp226 draft (131 frags)												
+Paraprevotella clara YIT 11840 draft (231 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Staphylococcus sp. E463 draft (118 frags)												
+Pseudomonas aeruginosa MH27 draft (31 frags)												
+Escherichia coli UMEA 3899-1 draft (102 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli CHS 77 draft (32 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Mycoplasma hyosynoviae strain NPL6 draft (53 frags)												
+Enterococcus faecium E0120 draft (42 frags)												
+Lactobacillus iners LEAF 2062A-h1 draft (24 frags)												
+Human papillomavirus type 6 complete genome isolate 42												
+Prevotella sp. oral taxon 306 str. F0472 draft (74 frags)												
+Escherichia coli 2-222-05_S1_C1 draft (108 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pectobacterium atrosepticum strain 21A												
+Lactobacillus fermentum NB-22 draft (190 frags)												
+Streptococcus mutans M230 draft (139 frags)												
+Streptococcus pyogenes strain Lacen4 draft (50 frags)												
+Cronobacter sakazakii Sp291					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecalis 79-3 draft (19 frags)												
+Streptococcus mutans TCI-145 draft (99 frags)												
+Escherichia coli MS 146-1 draft (355 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli O153:H2 str. 2010C-5034 draft (251 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium phage P9.1												
+Streptococcus mutans T4 draft (113 frags)												
+Escherichia coli HVH 89 (4-5885604) draft (32 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella sp. FD3004 draft (16 frags)												
+Enterobacter aerogenes UCI 16 draft (16 frags)					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecium Pat2-1 Enterococcus faecium EnGen0375 draft (17 frags)												
+Escherichia coli KTE148 draft (144 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Tobacco mosaic virus isolate Xunyang					Secondary							
+Pectobacterium atrosepticum SCRI1043 chromosome												
+Escherichia coli B799 draft (78 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae PT8114 draft (423 frags)												
+Escherichia coli HVH 28 (4-0907367) draft (35 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas luteola XLDN4-9 draft (231 frags)												
+Pseudomonas aeruginosa CF77 draft (24 frags)												
+Escherichia coli TOP550-4 draft (120 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus casei 32G draft (42 frags)												
+Enterococcus faecium LA4B-2 draft (106 frags)												
+Klebsiella pneumoniae CHS 59 draft (29 frags)												
+Enterococcus faecalis TX4248 draft (112 frags)												
+Pseudomonas stutzeri ATCC 17588 = LMG 11199 chromosome												
+Streptococcus ratti FA-1 = DSM 20564 draft (182 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterococcus faecalis TX0031 draft (60 frags)												
+Actinomyces dentalis DSM 19115 draft (97 frags)												
+[Bacteroides] pectinophilus ATCC 43243 Bacteroides pectinophilus ATCC 43243 draft (37 frags)		Secondary						Secondary				
+Escherichia coli EC4402 draft (785 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0305260.7 draft (132 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli O26:H1 str. 2011C-3270 Escherichia coli O26:H11 str. 2011C-3270 draft (289 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae SGBS001 draft (23 frags)												
+Escherichia coli plasmid pRAx 												
+Enterococcus faecalis UAA769 draft (24 frags)												
+Escherichia coli HVH 180 (4-3051617) draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Porphyromonas uenonis 60-3 draft (250 frags)												
+Ruminococcus callidus ATCC 27760 draft (484 frags)			Secondary						Secondary			
+Lactococcus phage jm2					DETECTED	Secondary					DETECTED	DETECTED
+Escherichia coli UMEA 3155-1 draft (35 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Oscillibacter sp. KLE 1728 draft (293 frags)	DETECTED	DETECTED	DETECTED	Secondary	Secondary	Secondary	DETECTED	DETECTED	DETECTED	Secondary	DETECTED	Secondary
+Escherichia coli O157:H7 str. K1845 draft (110 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0299917.8 draft (184 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWHPSA015 draft (19 frags)												
+Escherichia coli O157:H7 str. EC4115 plasmid pO157 					Secondary						Secondary	Secondary
+Escherichia coli strain 77300132 draft (397 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis TX0860 draft (88 frags)												
+Lactococcus lactis subsp. cremoris SK11 plasmid 1 												
+Escherichia coli KTE77 draft (38 frags)				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Enterobacter cloacae UCI 36 draft (17 frags)											Secondary	
+Escherichia coli DEC3D draft (96 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus paracasei subsp. paracasei Lpp37 draft (264 frags)												
+Staphylococcus lugdunensis VCU150 draft (28 frags)												
+Gardnerella vaginalis JCP8481B draft (180 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Streptococcus suis ST1 chromosome												Secondary
+Escherichia coli SE11 plasmid pSE11-2 					Secondary						Secondary	Secondary
+Streptococcus suis D9 chromosome												Secondary
+Pseudomonas aeruginosa BWHPSA010 draft (30 frags)												
+Methanobrevibacter smithii TS96A draft (47 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Yersinia enterocolitica subsp. enterocolitica WA-314 draft (129 frags)												
+Enterococcus faecium UC7267 draft (458 frags)												
+Streptococcus pneumoniae MNZ14 draft (79 frags)												
+Escherichia coli O111 str. CVM9455 Escherichia coli O111:H11 str. CVM9455 draft (845 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA17484 draft (6 frags)												
+Escherichia coli O145:NM str. 2010C-3510 draft (104 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella flexneri Shi06AH091 draft (304 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lachnospiraceae bacterium ACC2 draft (16 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+Escherichia coli SMS-3-5 plasmid pSMS35_130 					Secondary					Secondary	Secondary	Secondary
+Escherichia coli SCD2 draft (123 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus macedonicus ACA-DC 198				Secondary		Secondary				Secondary	Secondary	Secondary
+Escherichia coli 2730350 draft (271 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. K2324 draft (111 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 EDL933 plasmid pO157 					Secondary						Secondary	Secondary
+Prevotella copri DSM 18205 draft (73 frags)												
+Bacteroides fragilis str. 1007-1-F #8 draft (315 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Streptococcus infantis SK1302 draft (148 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020004984 draft (15 frags)												
+Escherichia coli HVH 203 (4-3126218) draft (19 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-222-05_S1_C2 draft (106 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae strain blaNDM-1 plasmid plasmid2 												
+Escherichia coli KTE197 draft (42 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1-392-07_S1_C1 draft (174 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus garvieae ATCC 49156 draft (6 frags)												
+Escherichia coli O111:NM str. K6904 draft (207 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-052-05_S1_C3 draft (148 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2726800 draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium adolescentis L2-32 draft (74 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 606 draft (504 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli M2 draft (698 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa JD324 draft (2181 frags)												
+Escherichia coli KTE26 draft (14 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa 3580 draft (75 frags)												
+Escherichia coli O26:H1 str. 2009C-3612 Escherichia coli O26:H11 str. 2009C-3612 draft (232 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae CLIB215, combined chrs"												
+Escherichia coli P0299917.3 draft (375 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterobacter aerogenes UCI 48 draft (16 frags)					Secondary					Secondary	Secondary	Secondary
+Escherichia coli 6-175-07_S3_C2 draft (123 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 51 draft (33 frags)												
+Enterococcus faecalis ATCC 29200 draft (123 frags)												
+HST297840 Hop stunt viroid RNA isolate HSVd.apr24												
+Bacteroides sp. 1_1_30 draft (171 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli B7A plasmid pEB2 					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecium P1190 draft (262 frags)												
+Escherichia coli O104:H4 str. 01-09591 draft (287 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterobacter aerogenes FGI35 draft (8 frags)					Secondary					Secondary	Secondary	Secondary
+Streptococcus thermophilus MTCC 5460 draft (143 frags)				DETECTED		Secondary				Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 117												
+Klebsiella pneumoniae CHS 40 draft (40 frags)												
+Tobacco mosaic virus isolate Tor2-L1					Secondary							
+Haemophilus parasuis SW140 draft (77 frags)												
+Escherichia coli 2729250 draft (148 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli MS 124-1 draft (176 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella pallens ATCC 700821 draft (168 frags)												
+Klebsiella pneumoniae UHKPC09 draft (205 frags)												
+Shigella flexneri strain 4S BJ10610 draft (442 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterobacter cloacae subsp. cloacae SY-70 draft (184 frags)											Secondary	
+Escherichia coli KTE21 draft (71 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli PA47 draft (158 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 44 (4-2298570) draft (41 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus buchneri ATCC 11577 draft (165 frags)												
+Lactobacillus iners LEAF 2052A-d draft (28 frags)												
+Escherichia coli FRIK1990 draft (629 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-474-04_S4_C3 draft (93 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus dysgalactiae subsp. equisimilis AC-2713				Secondary		Secondary				Secondary		Secondary
+Staphylococcus epidermidis VCU065 draft (87 frags)												
+Enterococcus faecium 841V03 draft (34 frags)												
+Clostridium clostridioforme 90A7 draft (35 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020048184 draft (9 frags)												
+Streptococcus sp. M143 draft (28 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Edwardsiella ictaluri 93-146 chromosome												
+Enterococcus faecium P1986 draft (333 frags)												
+Klebsiella pneumoniae Kb677 draft (2 frags)												
+Citrobacter koseri ATCC BAA-895 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus lactis subsp. lactis strain MJC15 plasmid pCD4 												
+Klebsiella pneumoniae IS39 draft (990 frags)												
+Streptococcus pyogenes ABC020032523 draft (9 frags)												
+Lactobacillus salivarius UCC118 plasmid pSF118-20 												
+Streptococcus pneumoniae GA17971 draft (10 frags)												
+Holdemania filiformis DSM 12042 draft (289 frags)					Secondary	Secondary				Secondary	Secondary	DETECTED
+Streptococcus sp. HSISM1 draft (118 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Chicken anemia virus strain GD-K-12												
+Bacteroides barnesiae DSM 18169 draft (47 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Leuconostoc citreum KM20 plasmid pLCK1 												
+Veillonella sp. AS16 draft (22 frags)				Secondary	DETECTED	Secondary				Secondary	Secondary	Secondary
+Escherichia coli HVH 155 (4-4509048) draft (16 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 44 draft (40 frags)												
+Lactococcus garvieae Tac2 draft (97 frags)												
+Escherichia coli EC4448 draft (566 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium sp. HGH0353 draft (7 frags)												
+Escherichia coli DEC1E draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL036PA1 draft (21 frags)												
+Shigella flexneri 2747-71 draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Oscillibacter sp. KLE 1745 draft (286 frags)	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Streptococcus agalactiae LMG 15091 draft (36 frags)												
+Shigella sonnei 53G plasmid B		DETECTED						Secondary				
+Escherichia coli HVH 109 (4-6977162) draft (94 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis 528m draft (117 frags)												
+Bacteroides fragilis str. S23 R14 draft (263 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Enterococcus faecium E1575 draft (100 frags)												
+Escherichia coli O104:H4 str. 04-8351 draft (25 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU123 draft (80 frags)												
+Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4 												
+Bacteroides eggerthii 1_2_48FAA draft (28 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Streptococcus criceti HS-6 draft (2 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Streptococcus agalactiae FSL S3-603 draft (105 frags)												
+Bacteroides eggerthii DSM 20697 draft (70 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli DEC13D draft (42 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O104:H4 str. 2011C-3493 plasmid pAA-EA11 					Secondary					Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BL11 draft (30 frags)												
+Leuconostoc kimchii IMSNU 11154 plasmid LkipL4704 												
+Prevotella maculosa OT 289 draft (54 frags)												
+Yersinia pestis D182038 plasmid pPCP1 												
+Propionibacterium phage PHL115M02												
+Prevotella histicola F0411 draft (39 frags)												
+Veillonella atypica ACS-134-V-Col7a draft (70 frags)				Secondary		Secondary				Secondary		Secondary
+Lactobacillus animalis KCTC 3501 draft (32 frags)												
+Negativicoccus succinicivorans DORA_17_25 draft (356 frags)				Secondary		Secondary				Secondary		Secondary
+Escherichia coli ETEC H10407 plasmid pEntH10407 				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli strain 48 draft (21 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella histicola JCM 15637 = DNF00424 draft (54 frags)												
+Pseudomonas aeruginosa PAO579 draft (16 frags)												
+Shigella flexneri Shi06HN378 draft (296 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus paracasei N1115 plasmid 			DETECTED						DETECTED			DETECTED
+Pepper mild mottle virus mRNA for 126 kDa protein 183kDa protein 28kDa protein 17kDa protein complete cds	Secondary	Secondary		Secondary	Secondary							
+Ruminococcus bromii L2-63 draft genome	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary	Secondary			Secondary
+Anaerococcus sp. ph10 Anaerococcus obesiensis ph10 draft (32 frags)												
+Lactobacillus suebicus KCTC 3549 draft (143 frags)												
+Escherichia coli HVH 112 (4-5987253) draft (34 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis TX1322 draft (116 frags)												
+Streptococcus agalactiae SGBS002 draft (21 frags)												
+Methanobrevibacter smithii ATCC 35061 chromosome	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Escherichia coli plasmid pMG828-3 		DETECTED						Secondary				
+Escherichia coli P0304799.3 draft (491 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae 3063-00 draft (9 frags)												
+Streptococcus mutans 11VS1 draft (155 frags)												
+Propionibacterium acnes HL086PA1 draft (30 frags)												
+Escherichia coli BW25113				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-357 draft (220 frags)												
+Mobiluncus mulieris ATCC 35243 draft (65 frags)												
+Pseudomonas aeruginosa 9BR draft (2 frags)												
+Streptococcus suis 89/1591 draft (82 frags)												
+Prevotella buccalis ATCC 35310 draft (118 frags)												
+Lactobacillus plantarum WCFS1 plasmid pWCFS103 												
+Pseudomonas aeruginosa PA1												
+Clostridium leptum DSM 753 draft (22 frags)												
+Klebsiella pneumoniae BIDMC 22 draft (16 frags)												
+Prevotella sp. C561 draft (195 frags)												
+Streptococcus pyogenes ABC020050818 draft (2 frags)												
+Escherichia coli MP020940.1 draft (56 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli MS 16-3 draft (451 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli Vir68 plasmid pVir68 					Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae FL100, combined chrs"												
+Escherichia coli strain E455L draft (15 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli BIDMC 17B draft (14 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Weissella koreensis KACC 15510 plasmid WKp2903 												
+Enterobacter sp. MGH 34 draft (8 frags)												
+Klebsiella pneumoniae 30660/NJST258_1												
+Prevotella multiformis DSM 16608 draft (71 frags)												
+Escherichia coli 90.0039 draft (445 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 8-415-05_S1_C1 draft (132 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae FSL S3-003 draft (32 frags)												
+Streptococcus pyogenes ABC020052497 draft (12 frags)												
+Enterococcus faecalis TUSoD Ef11 draft (11 frags)												
+Streptococcus pyogenes ABC020014897 draft (10 frags)												
+Klebsiella pneumoniae strain blaNDM-1												
+Escherichia coli O145:H28 str. RM12581				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides salanitronis DSM 18170 plasmid pBACSA03 		DETECTED	Secondary									
+Escherichia coli LCT-EC52 draft (191 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Ruminococcus obeum ATCC 29174 draft (62 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli DEC3C draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O104:H4 str. E112/10 draft (218 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium bifidum IPLA 20015 draft (571 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli KTE235 draft (62 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans GS-5 chromosome												
+Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 draft (135 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pectobacterium wasabiae CFBP 3304 draft (73 frags)												
+GB virus C isolate DH028												
+Enterococcus faecalis B939 draft (48 frags)												
+Escherichia coli W plasmid pRK1 												
+Pseudomonas sp. 20_BN												
+Streptococcus pyogenes UTMEM-1 draft (54 frags)												
+Prevotella sp. CC98A Prevotella oralis CC98A draft (14 frags)												
+Propionibacterium acnes HL027PA2 draft (42 frags)												
+Streptococcus pyogenes ABC020052877 draft (6 frags)												
+Lactococcus lactis subsp. cremoris HP draft (213 frags)												
+Human papillomavirus type 6 complete genome isolate 107												
+Stx2 converting phage II DNA												
+Escherichia coli UMN026 plasmid p1ESCUM 					Secondary	Secondary				Secondary	Secondary	Secondary
+Pediococcus pentosaceus IE-3 draft (91 frags)												
+AF081782 Hepatitis G virus strain HGV-Iw isolate pHGVqz												
+Escherichia coli PA15 draft (530 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia toletana DAPP-PG 735 draft (94 frags)											Secondary	
+Enterococcus faecalis SF26630 draft (27 frags)												
+Staphylococcus epidermidis 41tr draft (100 frags)												
+Escherichia coli plasmid ColE9-J 												
+Escherichia coli MC19 draft (369 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Dorea longicatena CCUG 45247 Dorea longicatena DSM 13814 draft (52 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWHPSA008 draft (21 frags)												
+Pseudomonas aeruginosa PAO1 draft (843 frags)												
+Haemophilus parainfluenzae HK2019 draft (42 frags)				Secondary						Secondary		
+Streptococcus agalactiae SGBS005 draft (25 frags)												
+Streptococcus pneumoniae GA17328 draft (17 frags)												
+Cucumber green mottle mosaic virus isolate JSHZ12												
+Serratia fonticola AU-P3(3) draft (44 frags)												
+Haemophilus parahaemolyticus HK385 draft (61 frags)										Secondary		
+Streptococcus sp. HPH0090 draft (14 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli P0305260.10 draft (122 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis WI09 draft (95 frags)												
+Escherichia coli strain E. coli draft (447 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Endophytic bacterium LOB-07 plasmid pLK39 												
+Pseudomonas aeruginosa JD323 draft (1965 frags)												
+Escherichia coli TW10509 draft (92 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2845350 draft (172 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 6-537-08_S3_C1 draft (97 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 38.52 draft (498 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus lactis strain AI06												
+Streptococcus plurextorum DSM 22810 draft (36 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Propionibacterium acnes HL005PA2 draft (35 frags)												
+Klebsiella pneumoniae UCICRE 4 draft (22 frags)												
+CAN297684 Chicken anaemia virus complete genome clone 33												
+Streptococcus mutans SA41 draft (104 frags)												
+Shigella dysenteriae SD1D draft (146 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium UAA1022 draft (35 frags)												
+Klebsiella cf. planticola B43 draft (703 frags)		Secondary		Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas cremoricolorata DSM 17059 draft (27 frags)												
+Escherichia coli O91 draft (439 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli K1 strain 910 draft (844 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae BIDMC 41 draft (34 frags)												
+Escherichia coli O104:H4 str. H112180540 draft (512 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes GA19702 draft (35 frags)												
+Pseudomonas aeruginosa MTB-1												
+Tobacco mosaic virus isolate Fenggang-1					Secondary							
+Bifidobacterium gallinarum strain LMG 11586 draft (10 frags)				Secondary	Secondary	Secondary		Secondary		DETECTED	Secondary	Secondary
+Escherichia coli 1-110-08_S4_C2 draft (199 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli ED1a chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans TCI-138 draft (131 frags)												
+Tomato mosaic virus strain ToMV1-2												
+Streptococcus dysgalactiae subsp. equisimilis RE378				Secondary		Secondary				Secondary		Secondary
+Lactobacillus reuteri strain TMW1.656 draft (24 frags)												
+Enterococcus faecalis B2813 draft (47 frags)												
+Escherichia coli UMEA 3216-1 draft (34 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL059PA2 draft (23 frags)												
+Chicken anemia virus isolate SDLY08												
+Escherichia coli KTE224 draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pediococcus claussenii ATCC BAA-344 plasmid pPECL-1 												
+Klebsiella pneumoniae CHS 14 draft (28 frags)												
+Streptococcus agalactiae MRI Z1-023 draft (23 frags)												
+Bifidobacterium cuniculi strain LMG 10738 draft (41 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterococcus faecium HF50106 draft (39 frags)												
+Chicken anemia virus isolate VRDC/CAV/HR/C19/11 VP2 protein (VP2) apoptin (VP3) and capsid protein (VP1) genes complete cds												
+Escherichia coli O157:H7 str. K2192 draft (149 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA16121 draft (7 frags)												
+Enterococcus faecalis TX1302 draft (66 frags)												
+Prevotella marshii JCM 13450 draft (80 frags)												
+Enterococcus faecalis GA2 draft (50 frags)												
+Escherichia coli HVH 78 (4-2735946) draft (57 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O45:H2 str. 2010C-4211 draft (21 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Actinomyces odontolyticus DSM 43331 Actinomyces odontolyticus ATCC 17982 draft (4 frags)												
+Atopobium vaginae DSM 15829 draft (6 frags)												
+Parabacteroides merdae ATCC 43184 draft (118 frags)	Secondary	DETECTED	Secondary				DETECTED	Secondary	DETECTED			
+Escherichia coli EC4009 Escherichia coli O157:H7 str. EC4009 draft (277 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridium sp. 7_2_43FAA draft (58 frags)	Secondary											
+Escherichia coli 87A draft (1232 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Haemophilus influenzae 22.4-21 draft (44 frags)				Secondary						Secondary		
+Methanobrevibacter smithii DSM 2374 draft (25 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Streptococcus pneumoniae 2070035 draft (24 frags)												
+Methanobrevibacter oralis JMR01 draft (60 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Escherichia coli BIDMC 63 draft (19 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O145:H28 str. RM13514				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1-110-08_S3_C1 draft (188 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli DEC12E draft (97 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa 3581 draft (78 frags)												
+Lactobacillus paracasei subsp. tolerans Lpl7 draft (91 frags)												
+Staphylococcus epidermidis Scl22 draft (501 frags)												
+Enterococcus faecalis UAA711 Enterococcus faecium EnGen0308 draft (36 frags)												
+Enterococcus faecalis HIP11704 draft (143 frags)												
+Tobacco mosaic virus 183 kDa protein 126 kDa protein 54 kDa protein movement protein and coat protein genes complete cds					Secondary							
+Streptococcus suis YS66 draft (40 frags)						Secondary				Secondary		Secondary
+Streptococcus mutans TCI-218 draft (136 frags)												
+Staphylococcus capitis QN1 draft (30 frags)												
+Escherichia coli 2-222-05_S4_C3 draft (200 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa H1l draft (39 frags)												
+Prevotella bryantii C21a draft (27 frags)												
+Pseudomonas aeruginosa 19BR												
+Corynebacterium tuberculostearicum SK141 draft (37 frags)												
+Enterococcus italicus DSM 15952 draft (157 frags)												
+Prevotella pleuritidis F0068 draft (51 frags)												
+Pseudomonas aeruginosa LESB65 sequence												
+Staphylococcus epidermidis MC19 draft (219 frags)												
+Tobacco mosaic virus isolate Changle-9					DETECTED							
+Metascardovia criceti DSM 17774 draft (11 frags)				Secondary		Secondary				Secondary		
+Escherichia coli C1214_90 draft (513 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Uncultured bacterium plasmid pTRACA18 												
+Anaeroglobus geminatus F0357 draft (103 frags)												
+Propionibacterium acnes HL072PA1 draft (34 frags)												
+Escherichia coli MS 187-1 draft (310 frags)				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Tobacco mosaic virus isolate WT-L2					Secondary							
+Streptococcus pyogenes ABC020005887 draft (4 frags)												
+Escherichia coli plasmid pE66An 												
+Enterococcus faecium TX0133a04 draft (211 frags)												
+Escherichia coli chi7122 plasmid pAPEC-1 				Secondary	Secondary			Secondary		Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae YPS163, combined chrs"												
+Escherichia coli EPECa14 draft (199 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0298942.12 draft (202 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia sp. 9145											Secondary	
+Lactobacillus helveticus MTCC 5463 draft (593 frags)												
+Dickeya dadantii 3937 chromosome												
+Escherichia coli HVH 215 (4-3008371) draft (11 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium E1622 draft (17 frags)												
+Escherichia coli 5-172-05_S4_C1 draft (113 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Mangrovibacter sp. MFB070 draft (57 frags)					Secondary					Secondary	Secondary	Secondary
+Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1 chromosome												
+Pseudomonas aeruginosa SCV20265												
+Bacteroides fragilis HMW 616 draft (25 frags)	Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 1.2264 draft (31 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae UHKPC48 draft (194 frags)												
+Alistipes sp. AL-1 draft (24 frags)	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary
+Lactobacillus gallinarum JCM 2011 draft (74 frags)												
+Escherichia coli BIDMC 75 draft (43 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain UCD_JA17 draft (99 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli DEC14A draft (46 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia fergusonii ECD227 plasmid pECD227_113				Secondary	Secondary			Secondary		Secondary	Secondary	Secondary
+Streptococcus thermophilus plasmid pSMQ-316 												
+Aggregatibacter actinomycetemcomitans DSM 8324 draft (33 frags)												
+Escherichia coli KO11FL chromosome				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Prevotella ruminicola Ga6B6 draft (52 frags)												
+Escherichia coli 174900 draft (101 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1047 draft (400 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 159 (4-5818141) draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-005-03_S3_C1 draft (168 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Azotobacter vinelandii DJ chromosome												
+Streptococcus pyogenes ABC020046158 draft (12 frags)												
+Mannheimia haemolytica serotype A1/A6 str. PKL10 draft (11 frags)										Secondary		
+Escherichia coli HVH 68 (4-0888028) draft (39 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 60												
+Escherichia coli O86:H34 str. 99-3124 draft (182 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium pseudolongum subsp. pseudolongum strain LMG 11571 draft (11 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BL17 draft (18 frags)												
+Pseudomonas aeruginosa SG17M draft (17 frags)												
+Streptococcus oralis SK1074 draft (20 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae UCD51, combined chrs"												
+Streptococcus agalactiae 2864 Streptococcus agalactiae str. Gottschalk 2864 draft (41 frags)												
+Streptococcus agalactiae GB00535 draft (24 frags)												
+Streptococcus pyogenes ABC020006309 draft (6 frags)												
+Shigella flexneri 2002035 draft (300 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KOEGE 32 (66a) draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis T19 Enterococcus faecalis EnGen0355 strain T19 draft (8 frags)												
+Human papillomavirus type 6 complete genome isolate 126												
+Enterococcus faecium CRL1879 draft (73 frags)												
+Faecalibacterium prausnitzii A2-165 draft (115 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. 2011EL-2114 draft (96 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Parasutterella excrementihominis YIT 11859 draft (103 frags)	DETECTED	DETECTED	Secondary				DETECTED	Secondary	DETECTED			
+Anaerococcus sp. PH9 draft (93 frags)												
+Escherichia coli EPECa12 draft (110 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Tobacco mosaic virus					Secondary							
+Streptococcus mutans TCI-260 draft (141 frags)												
+Klebsiella pneumoniae BIDMC 18C draft (6 frags)												
+Escherichia coli strain E. coli draft (89 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli PA23 draft (475 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 96.0107 draft (369 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-005-03_S3_C3 draft (168 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae IS10 draft (1888 frags)												
+Escherichia coli O104:H4 str. ON2010 draft (80 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 47 draft (143 frags)												
+Bacteroides fragilis CL07T12C05 draft (35 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			Secondary
+Bacteroides acidifaciens JCM 10556 draft (265 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 2860050 draft (185 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa LESlike5 sequence												
+Enterobacter sp. MGH 6 draft (23 frags)												
+Enterococcus faecium DO plasmid 3 												
+Escherichia coli 2726950 draft (186 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis ERV73 draft (251 frags)												
+Propionibacterium phage PHL112N00												
+Escherichia coli KTE109 draft (52 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis SF6375 draft (45 frags)												
+Escherichia coli TOP2386 draft (219 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B2685 draft (52 frags)												
+Shigella sonnei plasmid P9 DNA 												
+Staphylococcus epidermidis VCU012 Staphylococcus pettenkoferi VCU012 draft (116 frags)												
+Pepino mosaic virus isolate Ch2	Secondary											
+Streptococcus agalactiae 2603V/R chromosome												
+Escherichia coli p0305293.9 draft (194 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain D6-117_07.11 draft (52 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Lactococcus phage P680					Secondary	Secondary					Secondary	Secondary
+Escherichia coli M13 draft (690 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus isolate VRDC/CAV/HR/C29/11 VP2 protein (VP2) apoptin (VP3) and capsid protein (VP1) genes complete cds												
+Klebsiella pneumoniae plasmid 9 												
+Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 draft (10 frags)		DETECTED		DETECTED	Secondary	DETECTED		DETECTED		DETECTED	Secondary	DETECTED
+Streptococcus phage Sfi19												
+Enterobacter pulveris DSM 19144 draft (36 frags)					Secondary	Secondary				Secondary	Secondary	Secondary
+Haemophilus influenzae 22.4-21 draft (44 frags)				Secondary						Secondary		
+Escherichia coli 3-267-03_S1_C2 draft (87 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae SGBS006 draft (23 frags)												
+Photorhabdus asymbiotica subsp. australis DSM 17609 draft (141 frags)												
+Streptococcus agalactiae GB00947 draft (268 frags)												
+Veillonella atypica KON draft (68 frags)				Secondary		Secondary				Secondary		Secondary
+Streptococcus agalactiae 998A Streptococcus agalactiae str. Gottschalk 998A draft (41 frags)												
+Pseudomonas aeruginosa 138244 draft (24 frags)												
+Klebsiella sp. YR343 Pantoea sp. YR343 draft (128 frags)											Secondary	
+Escherichia coli LT-68 draft (63 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O25b:H4-ST131 str. EC958 plasmid pEC958 					Secondary					Secondary	Secondary	Secondary
+Lactobacillus reuteri MM4-1A draft (7 frags)												
+Sodalis-like symbiont of Philaenus spumarius strain PSPU draft (562 frags)												
+Streptococcus pyogenes ABC020056883 draft (6 frags)												
+Escherichia coli 95NR1 draft (181 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterobacter sp. MGH 4 draft (20 frags)												
+Bifidobacterium pseudolongum AGR2145 draft (30 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus thermophilus LMD-9				Secondary		Secondary				Secondary	Secondary	Secondary
+Lachnospiraceae bacterium 6-1-63FAA Lachnospiraceae bacterium 6_1_63FAA draft (37 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED
+Streptococcus pneumoniae EU-NP02 draft (13 frags)												
+Enterococcus faecalis DAPTO 512 draft (87 frags)												
+Enterococcus faecium E3083 draft (11 frags)												
+Bacteroides fragilis CL03T12C07 draft (35 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Klebsiella pneumoniae BWH 48 draft (36 frags)												
+Mycoplasma auris 15026 draft (18 frags)												
+Escherichia coli O165:H25 str. 2010C-4874 draft (118 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella flexneri 2b plasmid R100 DNA 					Secondary	Secondary				Secondary	Secondary	Secondary
+Haemophilus influenzae NT127 draft (41 frags)				Secondary						Secondary		
+Escherichia coli BIDMC 15 draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Actinomyces sp. oral taxon 181 str. F0379 draft (32 frags)												
+Streptococcus sobrinus DSM 20742 = ATCC 33478 draft (54 frags)												
+Staphylococcus epidermidis VCU120 draft (61 frags)												
+Enterococcus faecalis ERV116 draft (81 frags)												
+Enterococcus casseliflavus EC20												
+Bifidobacterium breve JCP7499 draft (96 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BK1 draft (163 frags)												
+Escherichia coli Envira 8/11 draft (63 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium E1133 draft (92 frags)												
+Escherichia coli PA40 draft (66 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli MS 69-1 draft (425 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli E2348/69 chromosome from Sanger on Apr 22 2008 1:47PM				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus lactis subsp. cremoris TIFN3 draft (412 frags)												
+Enterococcus faecium Aus0004 plasmid AUS0004_p1 												
+Providencia sneebia DSM 19967 draft (17 frags)												
+Enterococcus faecium 1 141 733 draft (101 frags)												
+Prevotella veroralis DSM 19559 draft (31 frags)												
+Escherichia coli MP021552.8 draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Roseburia intestinalis L1-82 draft (409 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	DETECTED	Secondary
+Escherichia coli O157:H- str. 493-89 draft (204 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 117 (4-6857191) draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Corynebacterium argentoratense DSM 44202												
+Bifidobacterium scardovii strain LMG 21589 draft (34 frags)				Secondary	DETECTED	Secondary				Secondary	Secondary	Secondary
+Escherichia coli O121:H19 str. 2009C-4659 draft (206 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE45 draft (31 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae FCF3SP plasmid pKPC_FCF/3SP 												
+Escherichia coli STEC_7v draft (29 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium VAN 219 draft (32 frags)												
+Salmonella enterica subsp. enterica serovar Typhimurium str. U288 plasmid pSTU288-1 												
+Bacteroides fragilis YCH46 plasmid pBFY46 												
+Human papillomavirus type 6 complete genome isolate LP173												
+Escherichia coli HVH 116 (4-6879942) draft (36 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae EU-NP04 draft (12 frags)												
+Escherichia coli PA2 draft (110 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli UMEA 3161-1 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. EC4206 draft (7 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL096PA3 draft (38 frags)												
+Enterococcus flavescens ATCC 49996 draft (33 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH4 draft (173 frags)												
+Bacteroides graminisolvens JCM 15093 draft (63 frags)	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary	Secondary	
+Pseudomonas aeruginosa C51 draft (26 frags)												
+Escherichia coli O55:H7 str. RM12579 plasmid p12579_5 								Secondary				
+Actinomyces sp. oral taxon 170 str. F0386 draft (99 frags)												
+Lactobacillus helveticus CIRM-BIA 101 draft (213 frags)												
+Escherichia coli HVH 118 (4-7345399) draft (41 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWHPSA013 draft (18 frags)												
+Escherichia coli O157:H- str. 493-89 draft (351 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Mobiluncus mulieris ATCC 35239 draft (66 frags)												
+Pseudomonas aeruginosa LESlike4 sequence												
+Streptococcus mutans TCI-151 draft (121 frags)												
+Corynebacterium accolens ATCC 49726 draft (165 frags)												
+Enterococcus mundtii crl1656 draft (643 frags)												
+Candidatus Sodalis pierantonius str. SOPE					Secondary						Secondary	Secondary
+Lachnospira multipara ATCC 19207 draft (32 frags)						Secondary						
+Escherichia coli O26:H11 str. 05-3646 draft (136 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Veillonella sp. ACP1 draft (26 frags)				Secondary		Secondary				Secondary		Secondary
+Propionibacterium sp. KPL2000 draft (3 frags)												
+Actinobacillus pleuropneumoniae serovar 11 str. 56153 draft (47 frags)												
+Streptococcus suis T15												Secondary
+Escherichia coli P0301867.5 draft (136 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus phage CaseusJM1			Secondary		Secondary	Secondary					Secondary	Secondary
+Enterococcus faecalis UAA905 draft (19 frags)												
+Escherichia coli PA39 draft (889 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus bovis ATCC 700338 draft (38 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Salmonella enterica subsp. enterica serovar Heidelberg str. B182 plasmid pB182_37 												
+Streptococcus pneumoniae GA14688 draft (15 frags)												
+"Saccharomyces cerevisiae CLIB382, combined chrs"												
+Pseudomonas aeruginosa BWHPSA005 draft (19 frags)												
+Streptococcus agalactiae MC627 draft (130 frags)												
+Streptococcus mutans TCI-268 draft (92 frags)												
+Lactococcus phage 340					DETECTED	Secondary					DETECTED	
+Clostridiales bacterium 9403326 draft (9 frags)												
+Enterococcus faecium DO chromosome												
+Lactococcus lactis subsp. lactis plasmid pIL7 												
+Lactobacillus brevis ATCC 367 plasmid 2 												
+Streptococcus pyogenes MGAS10394 chromosome												
+Streptococcus suis 89-5259 draft (141 frags)												Secondary
+Lactobacillus hilgardii ATCC 8290 draft (233 frags)												
+Escherichia coli 1-110-08_S3_C2 draft (176 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae TIGR4 draft (218 frags)												
+Enterobacter cloacae ECNIH3											Secondary	Secondary
+Escherichia coli HVH 29 (4-3418073) draft (13 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli NE098 draft (471 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA11426 draft (13 frags)												
+Escherichia coli UMEA 3955-1 draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Coprobacillus sp. 8_2_54BFAA draft (21 frags)					Secondary					Secondary	Secondary	DETECTED
+Escherichia coli RN587/1 draft (73 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Yersinia enterocolitica subsp. enterocolitica 8081 chromosome											Secondary	
+Streptococcus sobrinus W1703 draft (130 frags)						Secondary						Secondary
+Enterobacter aerogenes UCI 28 draft (15 frags)					Secondary					Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU050 draft (43 frags)												
+Escherichia coli ED1a plasmid pECOED 											Secondary	
+Clostridium beijerinckii AAU1_buffalo Clostridium beijerinckii AAU1 draft (6119 frags)												
+Escherichia coli MP021561.3 draft (213 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae MRI Z1-035 draft (43 frags)												
+Klebsiella pneumoniae UCI 42 draft (20 frags)												
+Actinomyces sp. oral taxon 171 str. F0337 draft (580 frags)												
+Escherichia coli KTE4 draft (56 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O121:H19 str. 2010C-4989 draft (84 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O104:H4 str. 11-4632 C4 draft (54 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus strain GD-F-12												
+Salmonella enterica subsp. enterica serovar Paratyphi A plasmid pGY1 												
+Escherichia coli O104:H4 str. Ec11-4986 draft (39 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium E3548 draft (19 frags)												
+Streptococcus sobrinus TCI-50 draft (366 frags)												
+Escherichia coli HVH 132 (4-6876862) draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Cucumber green mottle mosaic virus isolate KOM												
+Streptococcus sp. oral taxon 071 str. 73H25AP draft (20 frags)						Secondary				Secondary		Secondary
+Streptococcus suis 4961 draft (71 frags)												Secondary
+Streptococcus sanguinis SK1 draft (13 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Shigella boydii 965-58 draft (96 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pepino mosaic virus isolate VFBC12-04	Secondary											
+Sutterella wadsworthensis 3_1_45B draft (61 frags)												
+Pepino mosaic virus isolate SAR09	Secondary											
+Escherichia coli 88.1042 draft (427 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA47461 draft (7 frags)												
+Escherichia coli BCE019_MS-13 draft (198 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella sp. oral taxon 472 str. F0295 draft (190 frags)												
+Escherichia coli O121:H19 str. F6714 draft (188 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae BHN191 draft (94 frags)												
+Klebsiella pneumoniae CHS 13 draft (26 frags)												
+Streptococcus pyogenes ABC020046470 draft (4 frags)												
+Cronobacter sakazakii ES15 chromosome					Secondary					Secondary	Secondary	Secondary
+Escherichia coli HVH 169 (4-1075578) draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE143 draft (65 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B2488 draft (25 frags)												
+Escherichia coli P0301904.3 draft (190 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans str. B16 P Sm1 draft (58 frags)												
+Escherichia coli O6:H16 str. F5656C1 draft (180 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus sp. C87 Staphylococcus caprae C87 draft (46 frags)												
+Enterobacter sp. JC163 draft (236 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL027PA1 draft (100 frags)												
+Escherichia coli MS 84-1 draft (432 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lachnospiraceae bacterium 1_4_56FAA draft (45 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary
+Yokenella regensburgei ATCC 43003 draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWH050 draft (16 frags)												
+Citrobacter youngae ATCC 29220 draft (49 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Hepatitis GB virus C genomic RNA strain: K1741												
+Streptococcus agalactiae MRI Z1-211 draft (21 frags)												
+Bacteroides fragilis str. 3976T7 draft (447 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Pseudomonas aeruginosa BWHPSA039 draft (31 frags)												
+Streptococcus thermophilus SMQ-173 plasmid pSMQ173b 												
+Streptococcus agalactiae GB00874 draft (40 frags)												
+Streptococcus vestibularis F0396 draft (11 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Shigella flexneri 2002021 draft (310 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium longum strain BXY01				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterococcus faecium 7430166-3 draft (34 frags)												
+Streptococcus suis 161_00P5 draft (106 frags)												Secondary
+Pseudomonas sp. 2_1_26 draft (295 frags)												
+Propionibacterium freudenreichii subsp. freudenreichii strain ITG P20 draft (111 frags)												
+Escherichia coli O157:H7 str. 2011EL-2107 draft (182 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli plasmid pO26-S3 				Secondary						Secondary		
+Lactococcus lactis ML8 plasmid pCL2.1 												
+Actinomyces sp. oral taxon 171 str. F0337 draft (580 frags)												
+Enterococcus faecalis B2867 draft (60 frags)												
+Streptococcus pseudoporcinus SPIN 20026 draft (35 frags)				Secondary		Secondary				Secondary		Secondary
+Edwardsiella piscicida strain JF1305 draft (72 frags)												
+Streptococcus agalactiae GB00247 draft (16 frags)												
+Escherichia coli ThroopD draft (43 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erysipelotrichaceae bacterium 6_1_45 draft (91 frags)												
+Tannerella sp. 6_1_58FAA_CT1 draft (88 frags)		Secondary	Secondary				Secondary	Secondary	Secondary			
+Streptococcus sp. 2_1_36FAA draft (13 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli KTE84 draft (34 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas sp. PH1b draft (89 frags)												
+Escherichia coli HVH 205 (4-3094677) draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 86 (4-7026218) draft (68 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1357 Escherichia coli OK1357 draft (180 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O111:NM str. 01-3076 draft (211 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium merycicum strain LMG 11341 draft (16 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Ewingella americana ATCC 33852 draft (92 frags)												
+Staphylococcus epidermidis AG42 draft (9 frags)												
+Streptococcus agalactiae FSL S3-268 draft (74 frags)												
+Pepino mosaic virus	Secondary											
+Lactobacillus johnsonii FI9785 plasmid p9785L 												
+Bacteroides coprosuis DSM 18011 draft (2 frags)	Secondary	Secondary					Secondary	Secondary			Secondary	
+Streptococcus pneumoniae England14-9 draft (8 frags)												
+Prevotella oralis ATCC 33269 draft (6 frags)												
+Klebsiella pneumoniae BIDMC 46a draft (28 frags)												
+Lactobacillus kefiranofaciens subsp. kefiranofaciens JCM 6985 draft (123 frags)												
+Klebsiella pneumoniae CHS 62 draft (22 frags)												
+Pseudomonas aeruginosa VRFPA02 draft (186 frags)												
+"Saccharomyces cerevisiae Sigma1278b, combined chrs"												
+Lonsdalea quercina subsp. quercina strain ATCC 29281 draft (37 frags)												
+Brome mosaic virus strain BMV-CZ segment RNA2 												
+Escherichia coli TW10119 draft (56 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Corynebacterium aurimucosum ATCC 700975 draft (101 frags)												
+Pepino mosaic virus isolate PepMV-PK	Secondary											
+Escherichia coli O111:NM str. 2010C-4592 draft (204 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis SS-6 draft (16 frags)												
+Escherichia coli UMEA 4207-1 draft (30 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE223 draft (45 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 06 draft (25 frags)												
+Streptococcus mutans NCTC 11060 draft (36 frags)												
+Escherichia coli 97.0007 draft (284 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis YS46 draft (146 frags)						Secondary				Secondary		Secondary
+Escherichia coli KTE159 draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Citrobacter rodentium ICC168 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis NIHLM057 draft (104 frags)												
+Escherichia coli HVH 195 (3-7155360) draft (27 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Serratia odorifera DSM 4582 draft (91 frags)												
+Haemophilus influenzae PittHH draft (59 frags)				Secondary						Secondary		
+Enterococcus faecium NRRL B-2354												
+Clostridium bolteae ATCC BAA-613 draft (78 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	DETECTED	Secondary	Secondary
+Escherichia coli Nissle 1917 draft (143 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella phage SfII										DETECTED		
+CAU66304 Chicken anemia virus cloned isolate 10												
+Clostridium colicanis 209318 draft (33 frags)												
+Escherichia coli 6-319-05_S1_C2 draft (192 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL110PA3 draft (89 frags)												
+Streptococcus pyogenes ABC020032535 draft (2 frags)												
+Enterococcus faecalis TX0411 draft (113 frags)												
+Hop stunt viroid clone HSVd.PN.12												
+Escherichia coli B112 draft (126 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae MC632 draft (403 frags)												
+Shigella flexneri 2002028 draft (297 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE43 draft (42 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli C354_03B draft (417 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli BIDMC 39 draft (30 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Clostridium saccharolyticum WM1 chromosome	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+GB virus C genomic RNA												
+Lactococcus garvieae DCC43 draft (68 frags)												
+Streptococcus sanguinis ATCC 49296 draft (20 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae KCTC 2242 plasmid pKCTC2242 												
+Anaerostipes caccae DSM 14662 draft (39 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+Klebsiella pneumoniae CHS 27 draft (37 frags)												
+Escherichia coli O111:H8 str. CVM9570 draft (633 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides ovatus 3_8_47FAA draft (42 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Staphylococcus aureus M0026 Staphylococcus epidermidis M0026 draft (69 frags)												
+Escherichia coli O111:H- str. 11128				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus brevis plasmid pRH45II 												
+Shigella flexneri 6603-63 draft (65 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium ERV26 draft (295 frags)												
+Streptococcus agalactiae CCUG 44104 draft (173 frags)												
+Gardnerella vaginalis 1500E draft (27 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Escherichia coli plasmid pMG828-4 												
+Bacteroides thetaiotaomicron CL09T03C10 Bacteroides finegoldii CL09T03C10 draft (16 frags)	Secondary	Secondary	Secondary	DETECTED	DETECTED	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Lachnospiraceae bacterium MSX33 draft (99 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Enterococcus faecalis ATCC 29200 draft (28 frags)												
+Pectobacterium carotovorum subsp. carotovorum strain NCPPB 3395 draft (118 frags)												
+Cronobacter pulveris 1160 draft (137 frags)					Secondary					Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020031290 draft (3 frags)												
+Escherichia coli 2862600 draft (159 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Bacteroides fragilis str. S6L3 draft (119 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary		Secondary	
+Alistipes onderdonkii DSM 19147 draft (32 frags)	Secondary	Secondary	Secondary	DETECTED	DETECTED	DETECTED	Secondary	DETECTED	Secondary	DETECTED	DETECTED	DETECTED
+Enterococcus faecalis B382 draft (6 frags)												
+Escherichia coli O157:H7 str. 2011EL-2312 draft (217 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides fragilis str. S6R8 draft (134 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Escherichia coli p0305293.15 draft (167 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-376 draft (511 frags)				Secondary		Secondary				Secondary		Secondary
+Streptococcus agalactiae SGBS014 draft (28 frags)												
+Edwardsiella tarda 080813 plasmid 2 												
+Lactobacillus plantarum subsp. plantarum ST-III plasmid pST-III 												
+Bacteroides pyogenes F0041 draft (186 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Lactococcus phage ul36.t1												
+Hop stunt viroid isolate alm-zahaf1												
+Propionibacterium acnes HL067PA1 draft (54 frags)												
+Escherichia coli KTE73 draft (88 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridiales bacterium VE202-16 draft (353 frags)		Secondary						Secondary				
+Streptococcus pyogenes MGAS8232 chromosome												
+Propionibacterium acnes TypeIA2 P.acn33 chromosome												
+Streptococcus agalactiae SGBS029 draft (22 frags)												
+Streptococcus pneumoniae ICE44 draft (83 frags)												
+Escherichia coli P0304816.10 draft (179 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 6-175-07_S3_C3 draft (106 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis MC16 draft (246 frags)												
+Escherichia coli E128010 draft (284 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus DNA												
+Escherichia coli 2875150 draft (276 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Avian gyrovirus 2 strain G17												
+Human papillomavirus type 6 complete genome isolate 79												
+Streptococcus pneumoniae SPN1041 draft (52 frags)												
+Streptococcus pyogenes ABC020047959 draft (8 frags)												
+Enterococcus faecalis 7330257-1 draft (20 frags)												
+Lactococcus lactis subsp. cremoris MG1363 chromosome												
+Brenneria sp. EniD312 draft (10 frags)											Secondary	
+Escherichia coli 93.0624 draft (49 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020048395 draft (10 frags)												
+Streptococcus mutans NVAB draft (102 frags)												
+Lactobacillus delbrueckii subsp. bulgaricus ND02 chromosome												
+Escherichia coli UMEA 3097-1 draft (31 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-53 draft (359 frags)												
+Escherichia coli O104:H4 str. 11-02318 draft (43 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU127 draft (81 frags)												
+Escherichia coli KTE236 draft (62 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE160 draft (110 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE165 draft (22 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Tobacco mosaic virus isolate Longlin-1					Secondary							
+Streptococcus pneumoniae SPN072838 draft (25 frags)												
+Enterococcus faecalis MMH594 draft (39 frags)												
+Escherichia coli 2-316-03_S4_C1 draft (154 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 95 (4-6074464) draft (62 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O104:H4 str. Ec11-4984 draft (39 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE103 draft (109 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Mycoplasma pulmonis UAB CTIP												
+Kandleria vitulina WCE2011 draft (44 frags)												
+Streptococcus gallolyticus UCN34 chromosome				Secondary		Secondary				Secondary	Secondary	Secondary
+Bacteroides vulgatus dnLKV7 draft (36 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002064 plasmid 												
+Shigella flexneri Shi06AH116 draft (322 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. 2011EL-2101 draft (183 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus sp. C80 Staphylococcus hominis subsp. hominis C80 draft (41 frags)												
+Enterobacter sp. BIDMC 28 draft (16 frags)												
+Streptococcus pyogenes ABC020030063 draft (12 frags)												
+Haemophilus influenzae F3031 chromosome				Secondary						Secondary		
+Escherichia coli UMEA 3220-1 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O113:H21 str. 07-4224 draft (73 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis 2630V05 draft (30 frags)												
+Streptococcus sp. SK643 -1 draft (31 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-367 draft (325 frags)												
+Escherichia coli 53638 plasmid p53638_226 										Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 12												
+Escherichia coli O157:H7 str. F6751 draft (192 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus delbrueckii subsp. bulgaricus draft (14 frags)												
+Streptococcus oralis SK610 draft (31 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae BIDMC 32 draft (45 frags)												
+Mobiluncus mulieris ATCC 35243 draft (65 frags)												
+Enterococcus faecium E1861 draft (25 frags)												
+Streptococcus mutans NLML4 draft (116 frags)												
+Escherichia coli plasmid pEC278 												
+Streptococcus pneumoniae GA49138 draft (12 frags)												
+Escherichia coli LAU-EC7 draft (77 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 120												
+Parasutterella excrementihominis YIT 11859 draft (103 frags)	Secondary	Secondary	DETECTED				Secondary	DETECTED	Secondary			
+Streptococcus suis GZ1 chromosome												Secondary
+Escherichia coli H299 draft (229 frags)				Secondary	Secondary	Secondary		DETECTED		Secondary	Secondary	Secondary
+Streptococcus pneumoniae DAR3264 draft (55 frags)												
+Staphylococcus epidermidis APO35 draft (263 frags)												
+Actinobacillus minor 202 draft (154 frags)										Secondary		
+Streptococcus pneumoniae PNI0199 draft (143 frags)												
+Escherichia coli P0302308.5 draft (133 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas nitroreducens strain B draft (403 frags)												
+Streptococcus pneumoniae 06-01-003MEF draft (343 frags)												
+Escherichia coli 94.0618 draft (391 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 3-475-03_S4_C1 draft (105 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Citrobacter freundii CFNIH1					Secondary	Secondary				Secondary	Secondary	Secondary
+Staphylococcus epidermidis E13A draft (56 frags)												
+Escherichia coli UMEA 3292-1 draft (92 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL007PA1 draft (38 frags)												
+Human papillomavirus type 6 complete genome isolate LP182												
+Escherichia coli p0305293.10 draft (189 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus kunkeei EFB6 draft (55 frags)												
+Pseudomonas aeruginosa VRFPA05 draft (170 frags)												
+Escherichia coli DEC8B draft (100 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus gastricus PS3 draft (80 frags)												
+Bacteroides dorei CL03T12C01 draft (47 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Pseudomonas aeruginosa LCT-PA220 draft (189 frags)												
+Salmonella enterica subsp. enterica serovar Typhimurium plasmid R64 												
+Enterococcus faecalis strain MB 5259 draft (38 frags)												
+Streptococcus ratti FA-1 draft (6 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus pneumoniae PCS8235 chromosome												
+Escherichia coli HVH 189 (4-3220125) draft (63 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus anginosus SK52 = DSM 20563 strain SK52 draft (109 frags)				Secondary		Secondary				Secondary		Secondary
+Haemophilus parasuis ZJ0906												
+Human gyrovirus type 1 strain G13												
+Enterococcus faecalis SF350 draft (49 frags)												
+Escherichia coli H30 draft (75 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis 7330245-2 draft (30 frags)												
+Enterococcus faecium H17575 draft (28 frags)												
+Pseudomonas aeruginosa PAO1-GFP draft (22 frags)												
+Human papillomavirus type 6 complete genome isolate 76												
+Pseudomonas aeruginosa JD325 draft (2141 frags)												
+Enterococcus faecalis TX1322 draft (116 frags)												
+Enterococcus faecalis B2670 draft (60 frags)												
+Corynebacterium sp. KPL1855 draft (37 frags)												
+Shigella flexneri Shi06HN006				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 907713 draft (258 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus anginosus subsp. whileyi MAS624 DNA				Secondary		Secondary				Secondary		Secondary
+Bifidobacterium sp. AGR2158 draft (20 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli KO11FL plasmid pEKO1101 												
+Streptococcus agalactiae CCUG 37739 draft (22 frags)												
+Escherichia coli UMEA 3041-1 draft (56 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Tobacco mosaic virus isolate Ancestor					Secondary							
+Serratia sp. PRI-2C draft (104 frags)												
+Escherichia coli MP021552.7 draft (259 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae 2071004 draft (23 frags)												
+Streptococcus pyogenes ABC020047993 draft (12 frags)												
+Enterococcus faecalis ATCC 27275 draft (22 frags)												
+Escherichia coli strain E. coli draft (186 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae MGH 66 draft (66 frags)												
+Klebsiella pneumoniae UCI 56 draft (24 frags)												
+Escherichia coli 3-475-03_S4_C2 draft (170 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus iniae KCTC 11634BP draft (174 frags)				Secondary		Secondary				Secondary		Secondary
+"Saccharomyces pastorianus Weihenstephan 34/70, combined chrs"												
+Escherichia coli O25b:H4-ST131 str. EC958 Escherichia coli O25b:ST131 str. JIE186 draft (240 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas sp. TS44 Pseudomonas stutzeri TS44 draft (78 frags)												
+Escherichia coli O157:H7 str. 1044 draft (70 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. TW14359 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU129 draft (36 frags)												
+Leuconostoc mesenteroides mesenteroides FR52 plasmid pFR18 												
+Pseudomonas aeruginosa BWHPSA016 draft (22 frags)												
+Escherichia coli EC1863 draft (412 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus strain GD-N-12												
+Escherichia coli B103 draft (127 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia amylovora UPN527 draft (18 frags)												
+Bifidobacterium longum subsp. longum ATCC 55813 draft (140 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Ruminococcus torques L2-14 draft genome	Secondary	DETECTED	DETECTED	Secondary	DETECTED	DETECTED	DETECTED	Secondary	Secondary	Secondary	DETECTED	DETECTED
+Streptococcus pneumoniae GA49542 draft (9 frags)												
+Escherichia coli KTE193 draft (64 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Serratia fonticola AU-AP2C draft (34 frags)												
+Enterococcus faecium E2297 draft (69 frags)												
+Streptococcus pneumoniae Sp647 draft (95 frags)												
+Gardnerella vaginalis 6119V5 draft (12 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Streptococcus pneumoniae 357 draft (142 frags)												
+Gardnerella vaginalis JCP7275 draft (202 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Enterobacter mori LMG 25706 draft (139 frags)					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecium E1972 draft (35 frags)												
+Pepino mosaic virus TGBp1 TGBp2 and TGBp3 genes genomic RNA strain US2 isolate Mu 04.8US	Secondary											
+Streptococcus pneumoniae EU-NP03 draft (10 frags)												
+Proteus mirabilis ATCC 29906 draft (115 frags)												
+Escherichia coli HVH 106 (4-6881831) draft (24 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella flexneri Shi06AH135 draft (302 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2875000 draft (124 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. K1793 draft (102 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Atopobium minutum 10063974 draft (3 frags)												
+Escherichia coli LF82				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O121:H19 str. 03-3227 draft (203 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Edwardsiella tarda EIB202 chromosome												
+Escherichia coli SCD1 draft (130 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterobacter cloacae MGH 54 draft (24 frags)											Secondary	
+Pseudomonas pseudoalcaligenes KF707 draft (233 frags)												
+Lactobacillus helveticus DPC 4571												
+Chicken anemia virus isolate 6 												
+Pectobacterium wasabiae WPP163 chromosome												
+Shigella sonnei plasmid pKYM 												
+Lactobacillus reuteri I5007												
+Klebsiella pneumoniae CHS 75 draft (37 frags)												
+Escherichia coli 5-366-08_S4_C1 draft (217 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus dysgalactiae subsp. equisimilis SK1249 draft (231 frags)				Secondary		Secondary				Secondary		Secondary
+Lactobacillus paracasei N1115 plasmid 												
+Escherichia coli UMNK88 plasmid pUMNK88_K88 					Secondary					Secondary	Secondary	Secondary
+Escherichia coli O55:H7 str. 3256-97 draft (188 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 1												
+Enterococcus faecium E155 draft (495 frags)												
+Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 												
+Lactobacillus rhamnosus HMP0056 Lactobacillus rhamnosus LMS2-1 draft (116 frags)												
+Enterobacter sp. MGH 16 draft (7 frags)											Secondary	Secondary
+Bacteroides faecis MAJ27 draft (53 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Dickeya zeae Ech1591 chromosome												
+Streptococcus agalactiae GB00245 draft (18 frags)												
+Escherichia coli KTE240 draft (57 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium R494 draft (237 frags)												
+Lactobacillus mali KCTC 3596 = DSM 20444 draft (196 frags)												
+Streptococcus agalactiae strain FNA07 draft (66 frags)												
+Salmonella enterica subsp. arizonae serovar 62:z36:- str. RKS2983												
+Actinomyces sp. oral taxon 170 str. F0386 draft (99 frags)												
+Lactococcus lactis subsp. cremoris SK11 plasmid 4 												
+Cucumber green mottle mosaic virus isolate CGMMV-chb												
+Ruminococcus obeum ATCC 29174 draft (62 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Enterococcus faecium UAA949 draft (55 frags)												
+Chicken anemia virus isolate 14 												
+Prevotella sp. HJM029 draft (181 frags)												
+Enterobacter sp. MGH 11 draft (24 frags)												
+Bifidobacterium breve DSM 20213 = JCM 1192 strain DSM 20213 draft (117 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterobacter sp. EGD-HP1 draft (37 frags)										Secondary	Secondary	Secondary
+Corynebacterium aurimucosum ATCC 700975 chromosome												
+Pseudomonas aeruginosa str. J 1532 draft (2544 frags)												
+Catonella morbi ATCC 51271 draft (26 frags)	Secondary	Secondary	Secondary	DETECTED	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 6-537-08_S4_C1 draft (129 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli O25b:H4-ST131 str. EC958 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Aggregatibacter actinomycetemcomitans D11S-1 chromosome				Secondary						Secondary		
+Escherichia coli 2-427-07_S3_C3 draft (88 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus macedonicus ACA-DC 198 plasmid pSMA198 												
+Klebsiella pneumoniae MGH 18 draft (10 frags)												
+Streptococcus pyogenes MGAS1882 chromosome												
+Escherichia coli 6-175-07_S1_C2 draft (145 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Salmonella enterica subsp. salamae str. 3588/07 draft (138 frags)												
+Streptococcus sobrinus TCI-395 draft (379 frags)												
+Rothia aeria F0474 draft (50 frags)												
+Escherichia coli O104:H4 str. 11-02913 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium 9830091-5 draft (30 frags)												
+Escherichia coli EC1735 draft (430 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae GB00909 draft (22 frags)												
+Mobiluncus curtisii ATCC 43063 chromosome												
+Klebsiella pneumoniae subsp. pneumoniae Kp13 plasmid pKP13a 												
+Escherichia coli A2363 plasmid pAPEC-O2-R 					Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli HVH 25 (4-5851939) draft (93 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae BIDMC 2A draft (12 frags)												
+Escherichia coli KTE28 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae MRI Z1-022 draft (76 frags)												
+Lactobacillus sakei subsp. sakei JCM 1157 draft (37 frags)												
+Streptococcus pneumoniae 2070425 draft (60 frags)												
+Tobacco mild green mosaic virus isolate Xiamen					DETECTED							
+Streptococcus pyogenes GA41208 draft (45 frags)												
+Escherichia coli XH001 draft (108 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus hirae ATCC 9790 draft (34 frags)												
+Pantoea sp. A4 draft (72 frags)												
+Prevotella pleuritidis JCM 14110 draft (49 frags)												
+Escherichia coli TOP2515 draft (2560 frags)				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Streptococcus pneumoniae BS455 draft (113 frags)												
+GB virus C genomic RNA												
+Lachnospiraceae bacterium VE202-12 draft (501 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary
+Enterococcus faecium E3346 draft (57 frags)												
+Klebsiella pneumoniae UCICRE 2 draft (15 frags)												
+Enterococcus faecalis 5952 draft (24 frags)												
+Escherichia coli MS 145-7 draft (143 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridium beijerinckii NCIMB 8052 chromosome												
+Escherichia coli C12_92 draft (223 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae AWRI1631, combined chrs"												
+Escherichia coli O157:H7 str. 2011EL-2092 draft (174 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis 7330259-5 draft (25 frags)												
+Escherichia coli KTE214 draft (45 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli BIDMC 62 draft (21 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020057168 draft (22 frags)												
+Human papillomavirus type 6 complete genome isolate 78												
+Escherichia coli LAU-EC9 draft (114 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella flexneri Shi06HN023 draft (299 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli DEC3B draft (61 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus phage CB13					Secondary	Secondary					Secondary	
+Streptococcus pneumoniae GA13637 draft (21 frags)												
+Streptococcus suis YS43 draft (67 frags)						Secondary				Secondary		Secondary
+Klebsiella pneumoniae DMC0526 draft (167 frags)												
+Escherichia coli strain E. coli draft (284 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE92 Klebsiella sp. KTE92 draft (34 frags)												
+Streptococcus agalactiae SS1218 draft (70 frags)												
+Human papillomavirus type 6 complete genome isolate 100												
+Staphylococcus epidermidis Scl31 draft (401 frags)												
+Enterococcus faecium NRRL B-2354 plasmid pNB2354_1 												
+Escherichia coli KTE114 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mitis strain SK667 draft (15 frags)						Secondary				Secondary	Secondary	Secondary
+Chicken anemia virus attenuated isolate SMSC-1P60												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH7 draft (160 frags)												
+Klebsiella pneumoniae BIDMC 18B draft (25 frags)												
+Klebsiella pneumoniae CHS 50 draft (22 frags)												
+Tobacco mosaic virus isolate Pingtan-2					Secondary							
+Escherichia coli C80_08 draft (284 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Morganella morganii strain M203 plasmid R485 												
+Streptococcus pneumoniae GA44386 draft (13 frags)												
+Streptococcus agalactiae GB00206 draft (33 frags)												
+Klebsiella pneumoniae CHS 71 draft (23 frags)												
+Streptococcus peroris ATCC 700780 draft (17 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 37												
+Streptococcus pyogenes ABC020050193 draft (2 frags)												
+Ruminococcaceae bacterium CC59_002D Ruminococcus lactaris CC59_002D draft (41 frags)	DETECTED	DETECTED	DETECTED	Secondary	Secondary		Secondary	DETECTED	DETECTED	Secondary	Secondary	
+Staphylococcus epidermidis VCU045 draft (62 frags)												
+Lactococcus garvieae ATCC 49156 draft (16 frags)												
+Escherichia phage 1720a-02												
+Enterobacter cloacae subsp. cloacae ATCC 13047 chromosome											Secondary	
+Escherichia coli EC1737 draft (500 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis TX4000 draft (77 frags)												
+Streptococcus suis ST3 chromosome												Secondary
+Escherichia coli 93.0055 draft (412 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain E. coli draft (93 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus intermedius BA1 draft (48 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae MGH 63 draft (155 frags)												
+Bacteroides fragilis str. S23L24 draft (122 frags)	Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary		Secondary	
+Lactococcus garvieae UNIUD074 draft (25 frags)												
+Escherichia coli 95JB1 draft (86 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli BIDMC 82 draft (146 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Salmonella enterica subsp. houtenae str. ATCC BAA-1581 draft (7 frags)												
+Staphylococcus epidermidis NIHLM001 draft (87 frags)												
+Actinomyces oris K20 draft (771 frags)												
+Escherichia coli KTE87 draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium DO plasmid 2 												
+Escherichia coli ISC56 draft (1186 frags)												
+Candidatus Prevotella conceptionensis 9403948 draft (400 frags)												
+Streptococcus dysgalactiae subsp. equisimilis SK1250				Secondary		Secondary				Secondary		Secondary
+Klebsiella pneumoniae UCI 21 draft (19 frags)												
+Enterococcus faecium E980 draft (131 frags)												
+Prevotella ruminicola 23 chromosome												
+Bacteroides uniformis ATCC 8492 draft (49 frags)	DETECTED	DETECTED	DETECTED	Secondary	Secondary	Secondary	DETECTED	DETECTED	DETECTED	Secondary	Secondary	Secondary
+Tobacco mosaic virus isolate Fengjie-1					Secondary							
+Escherichia coli O119:H4 str. 03-3458 draft (83 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae FSL F2-343 draft (17 frags)												
+Enterococcus faecium Aus0004 chromosome												
+Enterococcus faecalis B3053 draft (39 frags)												
+Escherichia coli KTE113 draft (87 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Blautia hydrogenotrophica DSM 10507 draft (233 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 2-222-05_S1_C3 draft (104 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain S5274 draft (283 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides sp. 2_2_4 draft (204 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Gardnerella vaginalis 1400E draft (28 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli O111:H11 str. CVM9534 draft (559 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWHPSA022 draft (24 frags)												
+Bifidobacterium animalis subsp. animalis strain LMG 10508 draft (13 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Haemophilus paraphrohaemolyticus HK411 draft (78 frags)				Secondary						Secondary		
+Enterococcus faecalis B312 draft (9 frags)												
+Streptococcus agalactiae STIR-CD-01 draft (42 frags)												
+Escherichia coli 597 draft (202 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae VAKPC254 draft (175 frags)												
+Gardnerella vaginalis JCP7276 draft (179 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli HM27 draft (285 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA40183 draft (9 frags)												
+Streptococcus pneumoniae GA47360 draft (16 frags)												
+Escherichia coli ECA-727 draft (539 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B4568 draft (39 frags)												
+Escherichia coli KTE56 draft (40 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA47388 draft (7 frags)												
+Escherichia coli P0305260.12 draft (124 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Campylobacter hominis ATCC BAA-381 plasmid pCH4 												
+Escherichia coli ETEC H10407 plasmid p52 		Secondary						Secondary				
+Bifidobacterium longum subsp. longum EK5 draft (28 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli HVH 16 (4-7649002) draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Eubacterium hadrum DSM 3319 Anaerostipes hadrus DSM 3319 draft (102 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Streptococcus suis YS14 draft (45 frags)												Secondary
+Pseudomonas mendocina strain S13.2 draft (7 frags)												
+Escherichia coli KTE64 draft (103 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus iniae 9117 draft (3 frags)				Secondary		Secondary				Secondary		Secondary
+Staphylococcus epidermidis MC16 draft (421 frags)												
+Lactobacillus casei strain Lbs2 draft (443 frags)												
+Enterococcus faecalis B1851 draft (33 frags)												
+Escherichia coli 3-073-06_S3_C1 draft (223 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B1734 draft (49 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH6 draft (149 frags)												
+Enterobacter cloacae ECR091 plasmid pENT-4bd 												
+Lactobacillus crispatus MV-1A-US draft (140 frags)												
+Escherichia coli KTE6 draft (27 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain E455 draft (6 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Clostridium asparagiforme DSM 15981 draft (640 frags)		Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	DETECTED	Secondary
+Escherichia coli 99.0815 draft (297 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lachnospiraceae bacterium VE202-12 draft (502 frags)	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli C341_10 draft (389 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium R501 draft (313 frags)												
+Shigella flexneri 2a str. 2457T				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-011-08_S3_C1 draft (169 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus thermophilus 2783 plasmid pt38 												
+Clostridium hiranonis DSM 13275 draft (101 frags)												
+Bifidobacterium gallicum DSM 20093 draft (27 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli KOEGE 7 (16a) draft (49 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Bacteroides coprosuis DSM 18011 chromosome	Secondary	Secondary					Secondary	Secondary			Secondary	
+Escherichia coli O111:NM str. 2010C-4221 draft (203 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1827-70 draft (35 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli str. K12 substr. MG1655 Escherichia coli str. K-12 substr. MG1655 strain K-12 draft (129 frags)				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae S288c, combined chrs"												
+Staphylococcus lugdunensis VCU148 draft (56 frags)												
+Streptococcus phage DT1												
+Klebsiella pneumoniae BIDMC 52 draft (19 frags)											Secondary	
+Megasphaera sp. BV3C16-1 draft (62 frags)												
+Enterobacter cloacae UCI 23 draft (15 frags)												
+Streptococcus agalactiae GB00911 draft (25 frags)												
+Pasteurella multocida subsp. multocida P1062 draft (5 frags)										Secondary		
+Pasteurella multocida 36950 chromosome												
+Bifidobacterium magnum strain LMG 11591 draft (13 frags)				DETECTED	Secondary	DETECTED				DETECTED	Secondary	Secondary
+Escherichia coli P0304777.10 draft (141 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. 2011EL-2103 draft (198 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE195 draft (69 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus isolate GXC060821												
+Streptococcus oralis SK10 draft (39 frags)						Secondary				Secondary		Secondary
+Lactobacillus reuteri strain TMW1.112 draft (48 frags)												
+Lachnospira multipara MC2003 draft (31 frags)						Secondary						
+Escherichia coli 2770900 draft (145 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus massiliensis DSM 18628 draft (87 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus salivarius PS4 draft (56 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Actinomyces sp. oral taxon 448 str. F0400 draft (69 frags)												
+Enterococcus faecium 1 230 933 draft (304 frags)												
+Escherichia coli P0302308.11 draft (141 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis VCU036 draft (68 frags)												
+Escherichia coli ETEC 1392/75 plasmid p557 					Secondary	Secondary				Secondary	Secondary	Secondary
+Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-04 												
+Streptococcus agalactiae CCUG 30636 draft (22 frags)												
+Tobacco mosaic virus isolate Xiongfan-1					Secondary							
+Lactobacillus gasseri JV-V03 draft (10 frags)												
+Erysipelotrichaceae bacterium AP9 Candidatus Stoquefichus massiliensis AP9 draft (166 frags)										Secondary		Secondary
+Klebsiella pneumoniae MGH 17 draft (35 frags)												
+Clostridiales bacterium VE202-06 draft (327 frags)		Secondary						Secondary				
+Escherichia coli 96.154 draft (3 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-052-05_S4_C2 draft (105 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus aureus subsp. aureus IS-K draft (57 frags)												
+Pepino mosaic virus isolate VFTX12-19	Secondary											
+Escherichia coli 53638 draft (2 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2722950 draft (157 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa M8A.1 draft (18 frags)												
+Enterococcus faecium E1321 draft (52 frags)												
+Klebsiella pneumoniae CHS 18 draft (25 frags)												
+Enterococcus faecalis DS5 plasmid pAMalpha1 												
+Streptococcus pyogenes ABC020014690 draft (7 frags)												
+Escherichia coli MS 145-7 draft (143 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Avibacterium paragallinarum JF4211 draft (34 frags)												
+Klebsiella pneumoniae plasmid pKpQIL 												
+Enterococcus flavescens ATCC 49996 draft (9 frags)												
+Pediococcus acidilactici DSM 20284 draft (12 frags)												
+Escherichia coli DEC2E draft (77 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 97.0264 draft (133 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis YS17-2 Streptococcus suis YS17 draft (67 frags)												Secondary
+Streptococcus suis YS24 draft (59 frags)						Secondary				Secondary		Secondary
+Escherichia coli DEC8E draft (72 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus sobrinus DSM 20742 = ATCC 33478 strain DSM 20742 draft (55 frags)												
+Streptococcus pneumoniae CCRI 1974M2 draft (130 frags)												
+Escherichia coli BCE002_MS12 draft (97 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2-210-07_S1_C3 draft (169 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Methanobrevibacter smithii TS146C draft (102 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Bifidobacterium thermophilum RBL67				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Atopobium vaginae DSM 15829 draft (52 frags)												
+Human papillomavirus type 6 complete genome isolate 25												
+Bibersteinia trehalosi USDA-ARS-USMARC-188												
+Streptococcus agalactiae GB00241 draft (20 frags)												
+Streptococcus agalactiae 1005B Streptococcus agalactiae str. Gottschalk 1005B draft (60 frags)												
+Enterococcus faecium NEF1 draft (47 frags)												
+Escherichia coli 909957 draft (261 frags)												
+Klebsiella pneumoniae plasmid pKF3-140 					Secondary	Secondary				Secondary	Secondary	Secondary
+Enterococcus faecium 109 A1 draft (35 frags)												
+Escherichia coli O118:H16 str. 07-4255 draft (14 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae SPN061370 draft (37 frags)												
+Haemophilus sp. oral taxon 851 str. F0397 draft (37 frags)				Secondary						Secondary		
+Streptococcus oralis strain SK141 draft (11 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli B85 draft (128 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 136 (4-5970458) draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain E. coli draft (212 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli FAH1 draft (236 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa JD313 draft (2296 frags)												
+Streptococcus mutans OMZ175 draft (130 frags)												
+Prevotella albensis DSM 11370 draft (48 frags)												
+Escherichia coli E24377A plasmid pETEC_35 					Secondary						Secondary	Secondary
+Pseudomonas aeruginosa PA7 chromosome												
+Escherichia coli O104:H4 str. 11-4632 C5 draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+GB virus C isolate Hu_5												
+Atopobium sp. oral taxon 810 str. F0209 draft (69 frags)												
+Bacteroides dorei isolate HS1_L_1_B_010	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli CFT073 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 100 (4-2850729) draft (32 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus plantarum subsp. plantarum P-8 plasmid LBPp5 												
+Lactococcus lactis subsp. lactis KLDS 4.0325												
+Escherichia coli P0305260.8 draft (126 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes strain ATCC 6919 draft (260 frags)												
+Salmonella enterica subsp. houtenae str. ATCC BAA-1581 chromosome												
+Escherichia coli O157:H7 str. 06-4039 draft (177 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Uncultured eubacterium plasmid pIE1130 												
+Escherichia coli DEC1C draft (81 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli BIDMC 64 draft (19 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BL15 draft (22 frags)												
+Peptoniphilus duerdenii ATCC BAA-1640 draft (61 frags)												
+Escherichia coli MC23 draft (282 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus sp. HSISS1 draft (41 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterococcus faecalis TX0635 draft (97 frags)												
+Enterobacter sp. MGH 33 draft (15 frags)												
+Bacteroides fragilis str. 2-F-2# 5 Bacteroides fragilis str. 2-F-2 #5 draft (250 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Porphyromonas uenonis 60-3 draft (250 frags)												
+Lactobacillus paracasei N1115 plasmid 												
+Enterococcus faecalis HEF39 draft (34 frags)												
+Escherichia coli 3-105-05_S3_C1 draft (182 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli UMEA 3178-1 draft (57 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O111:H- str. 11128 plasmid pO111_3 					Secondary					Secondary	Secondary	Secondary
+Enterococcus faecalis T21 draft (13 frags)												
+Serratia fonticola UTAD54 draft (133 frags)												
+Prevotella oris F0302 draft (87 frags)												
+Prevotella melaninogenica ATCC 25845 chromosome II 												
+Enterococcus faecalis BM4654 draft (34 frags)												
+Escherichia coli P0298942.1 draft (68 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae 2082239 draft (24 frags)												
+Escherichia coli O26:H11 str. CFSAN001629 draft (259 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 10.0869 draft (419 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella disiens FB035-09AN draft (78 frags)												
+Lactobacillus fermentum MTCC 8711 plasmid pLF07 												
+Escherichia coli KD2 draft (264 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus cristatus ATCC 51100 draft (31 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Actinobacillus capsulatus DSM 19761 draft (49 frags)												
+Escherichia coli 042				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL053PA2 draft (39 frags)												
+Escherichia coli KTE210 draft (38 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus reuteri JCM 1112												
+Escherichia coli plasmid pO26-Vir 											Secondary	
+Escherichia coli O111:NM str. 2010C-4799 draft (175 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Prevotella sp. ICM33 draft (110 frags)												
+Enterococcus faecalis B316 draft (12 frags)												
+Enterobacter sp. BIDMC 27 draft (9 frags)												
+Staphylococcus epidermidis MC28 draft (362 frags)												
+Haemophilus sp. HK 2154 Haemophilus sputorum HK 2154 draft (25 frags)				Secondary						Secondary		
+Pepino mosaic virus TGBp1 TGBp2 and TGBp3 genes genomic RNA strain US2 isolate Mu 04.12US	Secondary											
+Streptococcus pyogenes ABC020052898 draft (2 frags)												
+Streptococcus agalactiae GB00279 draft (27 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH17 draft (137 frags)												
+Streptococcus pneumoniae GA13224 draft (19 frags)												
+Bacteroides fragilis YCH46 chromosome	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Tobacco mosaic virus isolate Huidong					Secondary							
+Enterococcus faecium E1679 draft (340 frags)												
+Enterococcus faecium E4453 draft (374 frags)												
+Escherichia coli H736 draft (135 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B2211 draft (53 frags)												
+Streptococcus pneumoniae CGSP14 chromosome												
+Human papillomavirus type 6 complete genome isolate 63												
+Bacteroides sp. D20 draft (62 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli C213_10 draft (134 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli KOEGE 43 (105a) draft (40 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis 92-4172 draft (102 frags)						Secondary				Secondary		Secondary
+Streptococcus pneumoniae GA41538 draft (14 frags)												
+Streptococcus mutans UA159 chromosome												
+Escherichia coli KTE51 draft (108 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis SF5039 draft (28 frags)												
+Pseudomonas aeruginosa JCM 5962 draft (1198 frags)												
+Actinomyces odontolyticus F0309 draft (97 frags)												
+Escherichia coli str. K12 substr. MG1655 Escherichia coli str. K-12 substr. MG1655 strain K-12				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli APEC O78				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Lactobacillus vini JP7.8.9 draft (837 frags)												
+Finegoldia magna ATCC 53516 chromosome												
+Alistipes putredinis DSM 17216 draft (20 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	DETECTED	Secondary	Secondary	Secondary	Secondary
+Escherichia coli 1-392-07_S3_C2 draft (216 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides nordii CL02T12C05 draft (35 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Gardnerella vaginalis 41V draft (76 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Enterobacteria phage YYZ-2008 complete prophage genome												
+Lactococcus lactis subsp. cremoris GE214 draft (243 frags)												
+Enterococcus faecalis 20.SD.W.06 draft (98 frags)												
+Streptococcus sobrinus TCI-363 draft (356 frags)												
+Mannheimia haemolytica D38 draft (97 frags)												
+Enterococcus faecium UAA430 draft (38 frags)												
+Klebsiella pneumoniae T69 draft (234 frags)												
+Enterococcus casseliflavus ATCC 12755 draft (58 frags)												
+"Eremothecium coryli CBS 5749, combined chrs"												
+Enterobacter cloacae UCI 29 draft (23 frags)											Secondary	
+Escherichia coli HVH 142 (4-5627451) draft (58 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas taeanensis MS-3 draft (19 frags)												
+Prevotella sp. oral taxon 473 str. F0040 draft (90 frags)												
+Streptococcus agalactiae BSU108 draft (24 frags)												
+Bacteroides fragilis str. B1 (UDC16-1) draft (311 frags)	Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary	Secondary	Secondary	
+Enterococcus faecium UC7256 draft (143 frags)												
+Human papillomavirus type 6 complete genome isolate 110												
+Gallibacterium anatis UMN179 chromosome										Secondary		
+Prevotella baroniae JCM 13447 draft (94 frags)												
+Escherichia coli ARS4.2123 draft (245 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 99.1793 draft (185 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia amylovora ATCC 49946 chromosome												
+Chicken anemia virus isolate GD-1-12												
+Varibaculum cambriense DSM 15806 draft (10 frags)												
+Escherichia coli O104:H4 str. Ec11-5604 draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Shigella dysenteriae Sd197				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae MRI Z1-216 draft (86 frags)												
+Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 plasmid from Sanger on Jun 25 2008 5:42PM												
+Enterococcus faecalis B1678 draft (59 frags)												
+Prevotella histicola JCM 15637 = DNF00424 strain JCM 15637 draft (55 frags)												
+Propionibacterium sp. KPL2005 draft (8 frags)												
+Clostridium symbiosum WAL-14163 draft (142 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-107 draft (283 frags)												
+Burkholderiales bacterium 1_1_47 draft (96 frags)				DETECTED						DETECTED	DETECTED	
+Escherichia coli O26:H- plasmid pO26-CRL 											Secondary	
+Pseudomonas aeruginosa BL08 draft (31 frags)												
+Lactobacillus reuteri strain LTH5448 draft (36 frags)												
+Bifidobacterium thermophilum strain JCM 1207 draft (12 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWHPSA041 draft (28 frags)												
+Shigella flexneri 2002007 draft (274 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus rhamnosus CRL1505 draft (218 frags)												
+Streptococcus pneumoniae NP070 draft (10 frags)												
+Streptococcus agalactiae strain GBS6												
+Lactobacillus reuteri TD1												
+Escherichia coli UMEA 3426-1 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erysipelotrichaceae bacterium 3_1_53 draft (163 frags)												
+Escherichia coli O26:H1 str. 2010EL-1699 Escherichia coli O26:H11 str. 2010EL-1699 draft (262 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactococcus garvieae NBRC 100934 draft (56 frags)												
+Escherichia coli HVH 148 (4-3192490) draft (75 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas sp. P818 draft (33 frags)												
+Escherichia coli TW14425 draft (155 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus brevis plasmid pLB925A03 												
+Propionibacterium acnes hdn-1												
+Escherichia coli O15:H18 str. K1516 draft (160 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium 509 draft (313 frags)												
+Lactobacillus rhamnosus strain 24 draft (90 frags)												
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL476_91 												
+Pseudomonas aeruginosa BWH036 draft (66 frags)												
+Escherichia coli O25b:H4-ST131 str. EC958 plasmid pEC958B 												
+Propionibacterium avidum ATCC 25577 draft (24 frags)												
+Eubacterium sp. 3_1_31 draft (6 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus pneumoniae 4027-06 draft (7 frags)												
+Escherichia coli MS 21-1 draft (540 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae BS457 draft (97 frags)												
+Streptococcus mutans NMT4863 draft (97 frags)												
+Mannheimia haemolytica USDA-ARS-SAM-185												
+Escherichia coli 6-175-07_S3_C1 draft (106 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. 2011EL-2105 draft (198 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus casei BD-II chromosome												
+Streptococcus pyogenes ABC020040643 draft (7 frags)												
+Propionibacterium avidum 44067												
+Bifidobacterium longum DJO10A draft (120 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Lactobacillus salivarius GJ-24 draft (11 frags)												
+Cronobacter sakazakii 2151 draft (60 frags)											Secondary	
+Escherichia coli 2720900 draft (50 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 85 (4-0792144) draft (24 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae GB00264 draft (32 frags)												
+Human papillomavirus type 6 complete genome isolate 53												
+Mannheimia haemolytica serotype A2 str. OVINE draft (144 frags)												
+Streptococcus salivarius JIM8777				Secondary	Secondary	Secondary				Secondary	DETECTED	Secondary
+Prevotella oulorum JCM 14966 draft (138 frags)												
+Clostridium butyricum 5521 draft (123 frags)												
+Cucumber green mottle mosaic virus isolate SD Luffa												
+Escherichia coli 2-427-07_S4_C1 draft (194 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli APEC O1 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Anaerococcus hydrogenalis DSM 7454 draft (52 frags)												
+Human papillomavirus type 6 complete genome isolate 74												
+Escherichia coli TW09195 draft (1288 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus uberis 0140J chromosome				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus sobrinus TCI-355 draft (227 frags)												Secondary
+Escherichia coli O91:H14 str. 06-3691 draft (108 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa BWH051 draft (22 frags)												
+Escherichia coli 2-210-07_S1_C2 draft (197 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli 113302 draft (345 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridium diolis DSM 15410 draft (175 frags)												
+Staphylococcus epidermidis AU12-03 draft (50 frags)												
+Klebsiella pneumoniae subsp. pneumoniae ST258-K28BO draft (168 frags)												
+Klebsiella pneumoniae LCT-KP182 draft (23 frags)												
+Human papillomavirus type 6 complete genome isolate 22												
+Escherichia coli ATCC 25922 plasmid 												
+Escherichia coli C458_10 draft (360 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 20 (4-5865042) draft (48 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020048503 draft (2 frags)												
+Escherichia coli PA33 draft (596 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1-176-05_S1_C1 draft (172 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020005405 draft (6 frags)												
+Escherichia coli 3-373-03_S1_C2 draft (178 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridium butyricum DKU-01 draft (79 frags)												
+Escherichia coli TW10598 draft (310 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 85												
+Finegoldia magna ALB8 draft (54 frags)												
+Klebsiella pneumoniae G5-2 draft (107 frags)												
+Haemophilus influenzae NT127 draft (41 frags)				Secondary						Secondary		
+Haemophilus parasuis 29775 Haemophilus parasuis 29755 draft (281 frags)												
+Cronobacter sakazakii ES35 draft (183 frags)											Secondary	
+Haemophilus parasuis ST4-1 draft (191 frags)												
+Eubacterium sp. 3_1_31 draft (45 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Klebsiella pneumoniae subsp. pneumoniae KPR0928 												
+Pseudomonas aeruginosa VRFPA01 draft (81 frags)												
+Streptococcus pneumoniae DAR831 draft (52 frags)												
+Dickeya zeae NCPPB 2538 draft (46 frags)												
+Escherichia coli O157:H7 str. 2011EL-2090 draft (197 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae UHKPC179 draft (174 frags)												
+Escherichia coli O145:H28 str. RM12761 plasmid pRM12761 												
+Escherichia coli strain MI10-01 draft (228 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes ABC020049540 draft (4 frags)												
+Streptococcus sanguinis SK1058 draft (23 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Escherichia coli HVH 32 (4-3773988) draft (41 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+"Saccharomyces cerevisiae VL3, combined chrs"												
+Lactobacillus acidophilus DSM 9126 draft (45 frags)												
+Staphylococcus epidermidis strain 8400 draft (45 frags)												
+Pseudomonas sp. TX1 draft (138 frags)												
+Citrobacter freundii str. ballerup 7851/39 draft (357 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus epidermidis Scl19 draft (143 frags)												
+Klebsiella sp. YR343 Pantoea sp. YR343 draft (128 frags)											Secondary	
+Escherichia coli C40_11 draft (564 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium phage PHL066M04												
+Streptococcus pseudopneumoniae G42 draft (199 frags)												
+Shigella flexneri 2005184 draft (316 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus equi subsp. ruminatorum CECT 5772 draft (117 frags)				Secondary		Secondary				Secondary		Secondary
+Lactobacillus delbrueckii subsp. bulgaricus PB2003/044-T3-4 draft (140 frags)												
+Mannheimia haemolytica serotype A2 str. BOVINE draft (84 frags)												
+Streptococcus agalactiae BSU92 draft (18 frags)												
+Escherichia coli UMEA 3298-1 draft (46 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0305260.1 draft (26 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans TCI-154 draft (120 frags)												
+Tobacco mosaic virus isolate Wenxing					Secondary							
+Shigella flexneri Shi06HN250 draft (306 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae 2081685 draft (13 frags)												
+Streptococcus pyogenes MGAS2111 draft (126 frags)												
+Escherichia coli PA4 draft (455 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain S6662 draft (256 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain E. coli draft (141 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 5-172-05_S4_C3 draft (110 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium F9730129-1 draft (94 frags)												
+Bacteroides sp. 20_3 draft (125 frags)	DETECTED	DETECTED	DETECTED				DETECTED	DETECTED	DETECTED			
+Dickeya dadantii Ech586 chromosome												
+Lactobacillus gasseri 202-4 draft (70 frags)												
+Veillonella atypica ACS-049-V-Sch6 draft (63 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Escherichia coli ECC-Z draft (24 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Avian gyrovirus 2												
+Desulfovibrio piger ATCC 29098 draft (127 frags)												
+Streptococcus agalactiae FSL C1-487 draft (124 frags)												
+Bacteroides sp. 3_1_23 draft (87 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary
+Escherichia coli MS 85-1 draft (234 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae Kb140 draft (2 frags)												
+Clostridium perfringens F262 chromosome												
+Escherichia coli 1-182-04_S3_C3 draft (306 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium LCT-EF20 draft (111 frags)												
+Klebsiella sp. BRL6-2					Secondary					Secondary	Secondary	Secondary
+Escherichia coli JJ1886				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pasteurella multocida subsp. gallicida P1059 draft (39 frags)										Secondary		
+Escherichia coli IS1 draft (440 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae MGH 19 draft (17 frags)												
+Dickeya solani RNS 08.23.3.1.A draft (11 frags)												
+Streptococcus agalactiae 138P												
+Lactobacillus sp. 7_1_47FAA draft (28 frags)												
+Streptococcus mitis SK564 draft (35 frags)												Secondary
+Corynebacterium jeikeium strain Cj37130 draft (30 frags)												
+Enterococcus faecium Patient #1-3 Enterococcus faecium EnGen0318 draft (84 frags)												
+Streptococcus pneumoniae WL400 draft (87 frags)												
+Escherichia coli 1047 draft (399 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 1-182-04_S1_C2 draft (112 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides dorei CL02T12C06 draft (110 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Clostridium sp. D5 draft (171 frags)												
+Streptococcus agalactiae CCUG 28551 draft (113 frags)												
+Streptococcus agalactiae FSL S3-277 draft (91 frags)												
+Bryantella formatexigens DSM 14469 Marvinbryantia formatexigens DSM 14469 draft (58 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli KTE19 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bacteroides fragilis str. S38L5 draft (83 frags)	Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary		Secondary	
+Pseudomonas aeruginosa PAb1 draft (658 frags)												
+Enterococcus faecium UAA946 Enterococcus faecalis EnGen0253 draft (54 frags)												
+Escherichia coli HVH 176 (4-3428664) draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus downei F0415 draft (17 frags)				Secondary		Secondary				Secondary		Secondary
+Staphylococcus epidermidis NIHLM020 draft (64 frags)												
+Klebsiella oxytoca E718 plasmid pKOX_R1 												
+Lactococcus lactis subsp. lactis bv. diacetylactis plasmid pVF22 												
+Escherichia coli KTE205 draft (56 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Ruminococcus torques ATCC 27756 draft (64 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Enterococcus faecalis RM4679 draft (29 frags)												
+Lactobacillus paracasei N1115												
+Prevotella timonensis DSM 22865 Prevotella timonensis 4401737 = DSM 22865 = JCM 15640 draft (101 frags)												
+Klebsiella pneumoniae CHS 61 draft (13 frags)												
+Prevotella brevis ATCC 19188 draft (34 frags)												
+Escherichia coli BWH 34 draft (5 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain UCD_JA03_pb draft (10 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Bifidobacterium breve S27				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli KTE54 draft (36 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE12 draft (53 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus isolate CIAV89-69												
+Klebsiella pneumoniae BIDMC 46b draft (13 frags)												
+Escherichia coli 2-177-06_S1_C3 draft (146 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus isolate VRDC/CAV/HR/C25/11 VP2 protein (VP2) apoptin (VP3) and capsid protein (VP1) genes complete cds												
+Escherichia coli 1-110-08_S4_C3 draft (196 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis 7330112-3 draft (39 frags)												
+Escherichia coli 907357 draft (187 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli MP020980.2 draft (51 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli B7A				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae CCUG 49086 draft (32 frags)												
+Pectobacterium carotovorum subsp. odoriferum strain NCPPB 3839 draft (156 frags)												
+Escherichia coli UMEA 3159-1 draft (43 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli strain UCD_JA17_pb draft (3 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA07643 draft (6 frags)												
+Escherichia coli BIDMC 65 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Ruminococcus albus 8 draft (136 frags)									Secondary			
+Cronobacter pulveris 601 draft (252 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA52612 draft (10 frags)												
+Stx2-converting phage 1717 complete prophage genome												
+Lactobacillus reuteri SD2112 chromosome												
+Salmonella enterica subsp. enterica serovar Infantis str. 119944 draft (108 frags)												
+Enterococcus faecalis TX0855 draft (93 frags)												
+Escherichia coli KTE173 draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli B str. REL606 chromosome				Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Bifidobacterium coryneforme strain LMG18911				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli DEC13A draft (37 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. H2495 draft (193 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 8-415-05_S3_C3 draft (152 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Staphylococcus sp. DORA_6_22 draft (385 frags)												
+Klebsiella pneumoniae UHKPC 52 draft (4 frags)												
+Haemophilus parasuis 84-17975 draft (99 frags)												
+Escherichia coli EC4422 draft (393 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli NCCP15657 draft (93 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis YS3 draft (68 frags)						Secondary				Secondary		Secondary
+Streptococcus salivarius M18 draft (6 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+tomato mosaic virus genes encoding RNA-dependent RNA polymerase movement protein and coat protein												
+Streptococcus agalactiae CCUG 44140 draft (22 frags)												
+Klebsiella pneumoniae 700603 draft (103 frags)												
+Lactobacillus equi DPC 6820 draft (203 frags)												
+Streptococcus pneumoniae 2090008 draft (40 frags)												
+Shigella flexneri 2001004 draft (291 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli TW09098 draft (486 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis NT77 draft (146 frags)												Secondary
+Escherichia coli LAU-EC2 draft (119 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 84 (4-1021478) draft (46 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia amylovora Ea266 draft (38 frags)												
+Klebsiella pneumoniae CHS 17 draft (31 frags)												
+Escherichia coli UMEA 3662-1 draft (22 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa 2192 draft (82 frags)												
+Shigella flexneri 2002091 draft (282 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Parabacteroides johnsonii DSM 18315 draft (527 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Bacteroides sartorii JCM 16497 draft (694 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate LP223												
+Enterobacter cloacae MR2 draft (230 frags)				Secondary	Secondary					Secondary	Secondary	Secondary
+Klebsiella oxytoca MGH 27 draft (27 frags)												
+Helcococcus sueciensis DSM 17243 draft (45 frags)												
+Escherichia coli 1-110-08_S1_C1 draft (128 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli HVH 13 (4-7634056) draft (66 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Corynebacterium sp. KPL1817 draft (15 frags)												
+Escherichia coli UMEA 3139-1 draft (114 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Salmonella enterica subsp. houtenae serovar 50:g z51:- str. 01-0133 draft (110 frags)												
+Escherichia coli B26-2 draft (58 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus gallinarum strain SKF1 draft (6 frags)												
+Streptococcus agalactiae LDS 617 draft (132 frags)												
+Escherichia coli 09BKT078844 draft (623 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE34 draft (94 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli P0302293.2 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. H2498 draft (191 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 47												
+Pseudomonas aeruginosa CF27 draft (23 frags)												
+Streptococcus pneumoniae GA13856 draft (10 frags)												
+Streptococcus pneumoniae GA13494 draft (15 frags)												
+Lactobacillus rossiae DSM 15814 draft (278 frags)												
+Aggregatibacter actinomycetemcomitans serotype c str. AAS4A draft (61 frags)				Secondary						Secondary		
+Escherichia coli O111:H8 str. CVM9574 draft (469 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae GA14373 draft (18 frags)												
+Streptococcus thermophilus MN-ZLW-002 chromosome				Secondary		Secondary				Secondary	Secondary	Secondary
+Escherichia coli 2-052-05_S4_C3 draft (155 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli MP021017.3 draft (139 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B2949 draft (32 frags)												
+Human papillomavirus type 6 complete genome isolate LP211												
+Enterococcus faecium Patient #1-1 Enterococcus faecium EnGen0314 draft (106 frags)												
+Enterococcus faecalis OG1RF chromosome												
+Gyrovirus GyV3												
+Escherichia coli AB42410445-isolate1 draft (231 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE93 draft (36 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes str. Manfredo chromosome												
+Escherichia coli plasmid pHK17a 					Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli LAU-EC1 Klebsiella pneumoniae LAU-KP1 draft (86 frags)												
+Lactobacillus johnsonii FI9785 chromosome												
+Escherichia coli DEC7C draft (68 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus casei Lpc-37 draft (150 frags)												
+Enterococcus faecalis B3119 draft (58 frags)												
+Streptococcus pyogenes ABC020060793 draft (13 frags)												
+Streptococcus parasanguinis ATCC 903 draft (84 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Streptococcus agalactiae CCUG 37742 draft (46 frags)												
+Human papillomavirus type 6 complete genome isolate 45												
+Bacteroides fragilis str. S6R5 draft (80 frags)	Secondary	Secondary	Secondary				Secondary	Secondary	Secondary			
+Escherichia coli BIDMC 71 draft (47 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Clostridiales bacterium VE202-09 draft (78 frags)				Secondary		Secondary		Secondary				
+Escherichia coli 2872800 draft (111 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae UCI 34 draft (20 frags)												
+Escherichia coli KTE81 draft (42 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus agalactiae CCUG 37736 draft (40 frags)												
+Escherichia coli STEC_S1191 draft (39 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Pseudomonas aeruginosa draft (4 frags)												
+Enterobacteria phage fiAA91-ss										Secondary		
+Escherichia coli 908519 draft (235 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli STEC_B2F1 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KOEGE 62 (175a) draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Peptoniphilus sp. oral taxon 386 str. F0131 draft (72 frags)												
+Enterococcus faecalis ERV72 draft (134 frags)												
+Escherichia sp. TW09276 draft (328 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Atopobium parvulum DSM 20469 chromosome												
+Escherichia coli 3431 draft (127 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pyogenes GA19681 draft (119 frags)												
+Shigella boydii 5216-82 draft (75 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis SLO2C-1 draft (56 frags)												
+Lactobacillus casei Lc-10 draft (76 frags)												
+Streptococcus pneumoniae 2081685 draft (12 frags)												
+Escherichia coli O111:NM str. K6897 draft (204 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Erwinia amylovora MR1 draft (29 frags)												
+Escherichia coli 1-110-08_S1_C2 draft (137 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Citrobacter freundii ATCC 8090 = MTCC 1658 draft (171 frags)					Secondary	Secondary				Secondary	Secondary	Secondary
+Tatumella ptyseos ATCC 33301 draft (85 frags)												
+Streptococcus mutans B111SM-A draft (39 frags)												
+Escherichia coli MP1 draft (77 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O169:H41 str. F9792 draft (113 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 24												
+Bacteroides fragilis str. 3725 D9 (ii) Bacteroides fragilis str. 3725 D9 ii draft (91 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary
+Escherichia coli O79:H7 str. 06-3501 draft (107 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus suis 11538 draft (39 frags)												Secondary
+Proteus hauseri ZMd44 draft (51 frags)												
+Streptococcus agalactiae strain ENC06 draft (70 frags)												
+Actinobacillus suis ATCC 33415												
+Escherichia coli 89.0511 draft (508 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Human papillomavirus type 6 complete genome isolate 87												
+Clostridium butyricum DORA_1 draft (224 frags)												
+Enterococcus faecium E1620 draft (91 frags)												
+Streptococcus pneumoniae PNI0008 draft (125 frags)												
+Escherichia coli 5.2239 draft (432 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Fusobacterium sp. 3_1_5R draft (99 frags)												
+Chicken anemia virus strain GD-M-12												
+Escherichia coli 38.27 draft (479 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli UCI 66 draft (33 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli PA49 draft (531 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae subsp. pneumoniae strain ATCC 43816 KPPR1												
+Escherichia coli plasmid p271A 												
+Streptococcus pyogenes GA03455 draft (55 frags)												
+Pseudomonas aeruginosa BL02 draft (12 frags)												
+Klebsiella pneumoniae subsp. pneumoniae KPNIH11 draft (185 frags)												
+Escherichia coli 8-415-05_S1_C2 draft (155 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Streptococcus phage 858												
+Veillonella magna DSM 19857 draft (36 frags)				Secondary		Secondary				Secondary		Secondary
+Escherichia coli EC1865 draft (788 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli O111:NM str. 2010C-4715 draft (219 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Serratia symbiotica str. Tucson draft (600 frags)												
+Haemophilus influenzae CGSHiCZ412602				Secondary						Secondary		
+Escherichia coli O157:H7 str. FRIK966 draft (316 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Peptoniphilus indolicus ATCC 29427 draft (302 frags)												
+Enterococcus faecalis VC1B-1 draft (83 frags)												
+Escherichia coli E110019 draft (137 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Dialister succinatiphilus YIT 11850 draft (98 frags)												
+Prevotella scopos JCM 17725 draft (112 frags)												
+Corynebacterium pseudogenitalium ATCC 33035 draft (16 frags)												
+Streptococcus orisratti DSM 15617 draft (92 frags)				Secondary	Secondary	Secondary				Secondary	Secondary	Secondary
+Escherichia coli O55:H7 str. USDA 5905 draft (154 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus equi subsp. zooepidemicus S31A1 Streptococcus equi subsp. zooepidemicus SzS31A1 draft (89 frags)				Secondary		Secondary				Secondary	Secondary	Secondary
+Pectobacterium wasabiae strain NCPPB 3701 draft (89 frags)												
+Escherichia coli UMN026 plasmid p2ESCUM 												
+Streptococcus agalactiae SGBS027 draft (22 frags)												
+Lactobacillus gasseri SV-16A-US draft (43 frags)												
+Escherichia coli O111:H8 str. CVM9602 draft (268 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 3-105-05_S4_C1 draft (85 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis TX1467 draft (220 frags)												
+Bacteroides ovatus 3941 Bacteroides ovatus SD CC 2a draft (305 frags)	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	Secondary	DETECTED	Secondary	Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. TW14588 draft (10 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Lactobacillus iners ATCC 55195 draft (19 frags)												
+Lactococcus raffinolactis 4877 draft (127 frags)												
+Escherichia coli NA114 chromosome				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli 2871950 draft (196 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus pneumoniae str. Canada MDR_19A draft (127 frags)												
+Escherichia coli strain E. coli draft (334 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Cronobacter dublinensis 1210 draft (221 frags)					Secondary					Secondary	Secondary	Secondary
+Escherichia coli O26:H11 str. CVM10224 draft (354 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE194 draft (34 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Chicken anemia virus isolate 16 												
+Bifidobacterium ruminantium DSM 6489 draft (43 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans KK23 draft (38 frags)												
+Escherichia coli UMEA 3656-1 draft (28 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Propionibacterium acnes HL020PA1 draft (33 frags)												
+Enterococcus faecalis UAA906 draft (16 frags)												
+Escherichia coli P0302308.1 draft (44 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Methanobacterium sp. Maddingley MBC34 draft (104 frags)							Secondary					
+Escherichia coli C1244_91 draft (305 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli C824_10 draft (302 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Escherichia coli KTE187 draft (37 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Streptococcus mutans TCI-219 draft (131 frags)												
+Streptococcus agalactiae GB01004 draft (82 frags)												
+Coprobacillus sp. 29_1 draft (80 frags)										Secondary		Secondary
+Eggerthella sp. YY7918												
+Pasteurella multocida strain 2213 draft (33 frags)										Secondary		
+Escherichia coli 910096-2 draft (202 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecium UAA719 draft (55 frags)												
+Streptococcus agalactiae 1003A Streptococcus agalactiae str. Gottschalk 1003A draft (41 frags)												
+Escherichia coli O111:NM str. 2009C-4052 draft (206 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterobacter sp. MGH 13 draft (25 frags)												
+Escherichia coli MS 116-1 draft (477 frags)				Secondary	Secondary	Secondary	Secondary	Secondary		Secondary	Secondary	Secondary
+Escherichia coli O157:H7 str. 2011EL-2099 draft (176 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Klebsiella pneumoniae UHKPC45 draft (5 frags)												
+Escherichia coli 541-15 draft (301 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Torque teno virus complete genome isolate TTV-HD19 (rheu242)												
+Streptococcus agalactiae GB00865 draft (45 frags)												
+Enterobacter cloacae UCI 50 draft (12 frags)												
+Escherichia coli TOP382-1 draft (118 frags)				Secondary	Secondary	Secondary		Secondary		Secondary	Secondary	Secondary
+Enterococcus faecalis B83616-1 draft (88 frags)												
+Streptococcus mutans SM4 draft (152 frags)												
+Streptococcus pneumoniae GA19451 draft (18 frags)												

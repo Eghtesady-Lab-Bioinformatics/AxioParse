@@ -1,0 +1,7 @@
+﻿sample_id,array_id,group,trimester,subject_id,age,race,socioeconomic_factors
+C.115.1,a483920-2391847-070525-424_A01,C,1,C.115,29,White,None
+C.115.2,a174305-8347510-070525-424_A02,C,2,C.115,29,White,None
+C.115.3,a592183-1029384-070525-424_A03,C,3,C.115,29,White,None
+D.216.1,a381927-5647382-070525-424_A04,D,1,D.116,40,Black or African American,None
+D.216.2,a849201-8374629-070525-424_A05,D,2,D.116,40,Black or African American,None
+D.216.3,a720394-6583721-070525-424_A06,D,3,D.116,40,Black or African American,None
