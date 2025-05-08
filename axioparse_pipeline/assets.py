@@ -74,8 +74,6 @@ def merge_samples_to_otu(replace_sample_names, read_species_coverage):
     # sort rows by Species name
     merged.sort_values(by=['Species', 'Probe'], inplace=True)
 
-    merged.to_csv('./data_out/merge_samples_to_otu_out.csv')
-
     return merged
 
 @asset(group_name="clean_otu_table")
