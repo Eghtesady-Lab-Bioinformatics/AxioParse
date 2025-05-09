@@ -22,7 +22,7 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 2. If you're using Windows, you will need to download Windows Subsystem for Linux to continue forward. Follow the instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install). You will need to use the WSL terminal for the remainder of this tutorial, not Windows Command Prompt. If you're on a Mac, you can skip this step.
 
 ### Prepare Environment
-3. Using a terminal window (WSL terminal if using Windows, default terminal if using Mac) and `cd` commands, enter this project's directory. Follow the instructions [here](https://library.qiime2.org/quickstart) to create a Conda virtual environment for this project and install the QIIME2 package.   
+5. Using a terminal window (WSL terminal if using Windows, default terminal if using Mac) and `cd` commands, enter this project's directory. Follow the instructions [here](https://library.qiime2.org/quickstart) to create a Conda virtual environment for this project and install the QIIME2 package.   
     - Once you click the link, you will need to choose a distribution. I recommend the Tiny Distribution, but any should work.
     - Once you choose a distribution, follow the "Using Conda" instructions. You don't need to complete "Using Docker".
     - As a part of "1. Installing Miniconda", you will need to follow the links to the Miniconda instructions and download that program separately. 
@@ -31,7 +31,7 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 5. Use the command `pip install .` to install all dependencies into the virtual environment. 
 
 ### File Adjustments
-6. Use the terminal command below to create a `.env` file in the axioparse directory. This file will store your NCBI email and API key for Entrez access. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317).
+9. Use the terminal command below to create a `.env` file in the axioparse directory. This file will store your NCBI email and API key for Entrez access. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317).
 ```
 echo 'NCBI_EMAIL="your.email@domain.com"' >> .env 
 echo 'NCBI_KEY="your_ncbi_key_here"' >> .env 
@@ -40,7 +40,7 @@ echo 'NCBI_KEY="your_ncbi_key_here"' >> .env
 8. Use the terminal command `printf "\ndata/\n" >> .gitignore` to add the `data` folder to the gitignore.
 
 ### Run Process in Dagster
-9. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
+12. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
 8. Select the "Assets" tab in the top right, and then click "View global asset lineage" in the top right. Execute the pipeline by selecting "Materialize All" in the top right.
 9. The output files will be written into `/data_out/`.
 10. When finished, navigate back to the terminal window and click `Ctrl + c` to kill the process. 
