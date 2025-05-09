@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     author="Pranav Kirti",
     packages=find_packages(exclude=["axioparse_pipeline_tests"]),
-    python_requires="~=3.9.19",
+    python_requires=">=3.9.19",
     install_requires=[
         "dagster~=1.8.1",
         "dagster_duckdb_pandas~=0.24.1",
