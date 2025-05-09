@@ -31,7 +31,7 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 5. Use the command `pip install .` to install all dependencies into the virtual environment. 
 
 ### File Adjustments
-9. Use the terminal command below to create a `.env` file in the axioparse directory. This file will store your NCBI email and API key for Entrez access. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317).
+9. Use the terminal command below to create a `.env` file in the axioparse directory. This file will store your NCBI email and API key for Entrez access. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317). Once this file is created, it will be hidden from view in the file explorer by default.  
 ```
 echo 'NCBI_EMAIL="your.email@domain.com"' >> .env 
 echo 'NCBI_KEY="your_ncbi_key_here"' >> .env 
@@ -41,7 +41,7 @@ echo 'NCBI_KEY="your_ncbi_key_here"' >> .env
 
 ### Run Process in Dagster
 12. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
-8. Select the "Assets" tab in the top right, and then click "View global asset lineage" in the top right. Execute the pipeline by selecting "Materialize All" in the top right.
+8. Select the "Assets" tab in the top left, and then click "View global asset lineage" in the top right. Execute the pipeline by selecting "Materialize All" in the top right.
 9. The output files will be written into `/data_out/`.
 10. When finished, navigate back to the terminal window and click `Ctrl + c` to kill the process. 
 
