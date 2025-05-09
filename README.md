@@ -26,10 +26,12 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 4. Activate the conda environment previously downloaded with `conda activate env_name`. Replace `env_name` with the environment name (for example, if you used the Tiny version, it might be `qiime2-tiny-2025.4`). You can verify that the environment was activated properly by checking at the terminal command line starts with `(env_name)`. 
 5. Use the command `pip install .` to install all dependencies into the virtual environment. 
 6. Use the terminal command below to create a `.env` file in the axioparse directory. This file will store your NCBI email and API key for Entrez access. Instructions to obtain an NCBI Entrez API Key can be found [here](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317).
-```bash echo 'NCBI_EMAIL="your.email@domain.com"' >> .env 
-echo 'NCBI_KEY="your_ncbi_key_here"' >> .env ```
-7. Use the terminal command `mkdir data_out` to create a folder to contain output data.
-8. Use the terminal command ```bash printf "\ndata/\n" >> .gitignore``` to add the `data` folder to the gitignore.
+```bash 
+echo 'NCBI_EMAIL="your.email@domain.com"' >> .env 
+echo 'NCBI_KEY="your_ncbi_key_here"' >> .env 
+```
+7. Use the terminal command `bash mkdir data_out` to create a folder to contain output data.
+8. Use the terminal command `bash printf "\ndata/\n" >> .gitignore` to add the `data` folder to the gitignore.
 9. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
 8. Select the "Assets" tab in the top right, and then click "View global asset lineage" in the top right. Execute the pipeline by selecting "Materialize All" in the top right.
 9. The output files will be written into `/data_out/`.
