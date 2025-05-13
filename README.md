@@ -41,6 +41,7 @@ echo 'NCBI_KEY="your_ncbi_key_here"' >> .env
 
 ### Run Process in Dagster
 12. In the same terminal window, run the command `dagster dev`. This should launch Dagster on your local server, which you can access by clicking on [this link](http://127.0.0.1:3000) or the link generated in the terminal window. 
+    - Unlike other terminal commands, this one will not fully complete. This terminal command will continue "running" in the background until you terminate it in step 15. 
 8. Select the "Assets" tab in the top left, and then click "View global asset lineage" in the top right. Execute the pipeline by selecting "Materialize All" in the top right.
 9. The output files will be written into `/data_out/`.
 10. When finished, navigate back to the terminal window and click `Ctrl + c` to kill the process. 
