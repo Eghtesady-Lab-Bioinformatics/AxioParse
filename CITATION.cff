@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Kirti"
   given-names: "Pranav"
-  orcid: ""
+  orcid: "https://orcid.org/0009-0000-8193-294X"
 - family-names: "Eghtesady"
   given-names: "Priooz"
   orcid: "https://orcid.org/0000-0001-7161-8391"
