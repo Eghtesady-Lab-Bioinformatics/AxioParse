@@ -25,7 +25,7 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 5. Using a terminal window (WSL terminal if using Windows, default terminal if using Mac) and `cd` commands, enter this project's directory. Follow the instructions [here](https://library.qiime2.org/quickstart) to create a Conda virtual environment for this project and install the QIIME2 package.   
     - Once you click the link, you will need to choose a distribution. I recommend the Tiny Distribution, but any should work.
     - Once you choose a distribution, follow the "Using Conda" instructions. You don't need to complete "Using Docker".
-    - As a part of "1. Installing Miniconda", you will need to follow the links to the Miniconda instructions and download that program separately. 
+    - As a part of "1. Installing Miniconda", you will need to follow the links to the Miniconda instructions and download that program separately. If you're using WSL (on a Windows device), you will need to follow the Miniconda installation instructions for "macOS/Linux Installation" and then "Linux terminal installer." 
 4. Open a new terminal window. Use `cd` commands to navigate into the `AxioParse` directory.
 4. Activate the conda environment previously downloaded with `conda activate env_name`. Replace `env_name` with the environment name (for example, if you used the Tiny version, it might be `qiime2-tiny-2025.4`). You can verify that the environment was activated properly by checking at the terminal command line starts with `(env_name)`. 
 5. Use the command `pip install .` to install all dependencies into the virtual environment. 
