@@ -25,7 +25,7 @@ SPEC_COV_IN_PATH = './data/array_species_coverage.csv'
 @asset(group_name="read_data")
 def read_otu():
     '''
-    upload the otu table as a dataframe, do some formatting
+    Step R.2: upload the otu table as a dataframe, do some formatting
     '''
     otu_table = pd.read_csv(OTU_IN_PATH, sep='\t')
     otu_table.sort_values(by="Target Description", inplace=True)
@@ -35,7 +35,7 @@ def read_otu():
 @asset(group_name="read_data")
 def read_metadata():
     '''
-    upload the metadata file as a dataframe
+    Step R.1: upload the metadata file as a dataframe
     '''
     metadata = pd.read_csv(METADATA_IN_PATH)
     return metadata
@@ -43,7 +43,7 @@ def read_metadata():
 @asset(group_name="read_data")
 def read_species_coverage():
     '''
-    upload the species coverage file as a dataframe, do some formatting
+    Step R.3: upload the species coverage file as a dataframe, do some formatting
     '''
     specices_cov = pd.read_csv(SPEC_COV_IN_PATH)
     specices_cov.rename(columns={"Sequence":"Probe"}, inplace=True)
@@ -54,7 +54,7 @@ def read_species_coverage():
 @asset(group_name="clean_otu_table")
 def replace_sample_names(read_otu, read_metadata):
     '''
-    replace column headers in otu table with sample_id from metadata
+    Step O.1: replace column headers in otu table with sample_id from metadata
     '''
     id_mapping = dict(zip(read_metadata['array_id'], read_metadata['sample_id']))
     read_otu.rename(columns=id_mapping, inplace=True)
@@ -63,7 +63,7 @@ def replace_sample_names(read_otu, read_metadata):
 @asset(group_name="clean_otu_table")
 def merge_samples_to_otu(replace_sample_names, read_species_coverage):
     '''
-    merge the species column from species coverage onto the otu table
+    Step O.2: merge the species column from species coverage onto the otu table
     '''
     merged = replace_sample_names.merge(read_species_coverage[['Probe', 'Species']], on='Probe', how='left')
 
@@ -78,6 +78,9 @@ def merge_samples_to_otu(replace_sample_names, read_species_coverage):
 
 @asset(group_name="clean_otu_table")
 def replace_species_names(merge_samples_to_otu, enrich_taxonomy_table):
+    '''
+    Step O.3: Replace species names using updated taxonomy information
+    '''
     otu_table = merge_samples_to_otu
     otu_table = otu_table.rename(columns={"Species": "Old Species"})
 
@@ -103,7 +106,7 @@ def replace_species_names(merge_samples_to_otu, enrich_taxonomy_table):
 @asset(group_name="clean_otu_table")
 def remove_duplicates(replace_species_names):
     '''
-    aggregates data for duplicate species and then empties and deletes duplicate rows.
+    Step O.4: aggregates data for duplicate species and then empties and deletes duplicate rows.
     Note: aggregates into DETECTED or Secondary. user can add print statement at the end of this function to output
     a table aggregated based on species but with all original columns. 
     '''
@@ -140,7 +143,7 @@ def remove_duplicates(replace_species_names):
 @asset(group_name="clean_otu_table")
 def combine_dna_rna_probes(remove_duplicates):
     '''
-    combines all dna and rna probes and makes all dna values binary
+    Step O.5: combines all dna and rna probes and makes all dna values binary
     '''
     result_df = remove_duplicates.apply(extra_functions.aggregate_row_to_binary, axis=1, result_type='expand')
 
@@ -149,7 +152,7 @@ def combine_dna_rna_probes(remove_duplicates):
 @asset(group_name="clean_otu_table")
 def delete_extra_samples(combine_dna_rna_probes, read_metadata):
     '''
-    deletes all columns where the axiom id was not replaced with a sample id (the sample does not have
+    Step O.6: deletes all columns where the axiom id was not replaced with a sample id (the sample does not have
     corresponding metadata)
     '''
     sample_ids = set(read_metadata["sample_id"])
@@ -160,7 +163,7 @@ def delete_extra_samples(combine_dna_rna_probes, read_metadata):
 @asset(group_name="clean_otu_table")
 def cut_probe_names(delete_extra_samples):
     '''
-    delete probe names from otu table
+    Step O.7: delete probe names from otu table
     '''
     delete_extra_samples.sort_values(by="Species", inplace=True)
     delete_extra_samples.drop(columns=['Species'], inplace=True)
@@ -173,7 +176,7 @@ def cut_probe_names(delete_extra_samples):
 @asset(group_name="clean_tax_table")
 def filter_taxa(read_species_coverage, merge_samples_to_otu):
     '''
-    filter the taxonomy table to include phylogeny information on otus in the otu table. do some extra
+    Step T.1: filter the taxonomy table to include phylogeny information on otus in the otu table. do some extra
     formatting.
     '''
 
@@ -188,7 +191,7 @@ def filter_taxa(read_species_coverage, merge_samples_to_otu):
 @asset(group_name="clean_tax_table")
 def enrich_taxonomy_table(read_species_coverage, filter_taxa):
     """
-    For each Species in tax_table, search the NCBI Taxonomy database to get full taxonomic info.
+    Step T.2: For each Species in tax_table, search the NCBI Taxonomy database to get full taxonomic info.
     If not found, attempt probe-based fallback search. Raise error if any entries fail.
     """
 
@@ -256,7 +259,7 @@ def enrich_taxonomy_table(read_species_coverage, filter_taxa):
 @asset(group_name="clean_tax_table")
 def remove_duplicate_species(enrich_taxonomy_table):
     '''
-    Remove any duplicate species names added while searching the taxonomy table. If there are any duplicates,
+    Step T.3: Remove any duplicate species names added while searching the taxonomy table. If there are any duplicates,
     ensure Original Species column contains all the original species for the new one.
     '''
 
@@ -273,7 +276,7 @@ def remove_duplicate_species(enrich_taxonomy_table):
 @asset(group_name="clean_tax_table")
 def format_tax_for_qiime(remove_duplicate_species):
     '''
-    Reformat taxonomy data into a single column that can be added to otu table
+    Step T.4: Reformat taxonomy data into a single column that can be added to otu table
     '''
     remove_duplicate_species.sort_values(by="Species", inplace=True)
     remove_duplicate_species["Full Taxonomy"] = remove_duplicate_species.apply(
@@ -288,7 +291,7 @@ def format_tax_for_qiime(remove_duplicate_species):
 def format_ids_for_qiime(delete_extra_samples):
 
     '''
-    manage any special characters present in species names to ensure QIIME2 can handle them 
+    Step O.6: manage any special characters present in species names to ensure QIIME2 can handle them 
     '''
     delete_extra_samples.reset_index(drop=True, inplace=True)
     delete_extra_samples.sort_values(by="Species", inplace=True)
@@ -309,7 +312,7 @@ def format_ids_for_qiime(delete_extra_samples):
 @asset(group_name="write_data")
 def write_metadata_r(read_metadata):
     '''
-    write metadata into a CSV so that it is useable in the microbiomestat package of R
+    Step W.2: write metadata into a CSV so that it is useable in the microbiomestat package of R
     '''
     read_metadata.set_index('sample_id', inplace=True)
     read_metadata.index.name = None
@@ -318,7 +321,7 @@ def write_metadata_r(read_metadata):
 @asset(group_name="write_data")
 def write_metadata_qiime(read_metadata):
     '''
-    write metadata into a .txt as TSV so that it is useable in qiime2
+    Step W.1: write metadata into a .txt as TSV so that it is useable in qiime2
     '''
     type_mapping = {'object': 'categorical', 'bool': 'categorical', 'int64': 'numeric', 'float64': 'numeric'}
     new_row = pd.DataFrame([["#q2:types"] + 
@@ -333,14 +336,14 @@ def write_metadata_qiime(read_metadata):
 @asset(group_name="write_data")
 def write_otu_r(cut_probe_names):
     '''
-    write otu table into a csv for r and microbiomestat compatibility
+    Step W.4: write otu table into a csv for r and microbiomestat compatibility
     '''
     cut_probe_names.to_csv('./data_out/otu_table_r.csv')
 
 @asset(group_name="write_data")
 def write_otu_qiime(format_ids_for_qiime):
     '''
-    write otu table into biom format
+    Step W.3: write otu table into biom format
     '''
     format_ids_for_qiime.index = format_ids_for_qiime.index.str.replace(" ", "_")
     format_ids_for_qiime.columns = format_ids_for_qiime.columns.str.replace(" ", "_")
@@ -353,7 +356,7 @@ def write_otu_qiime(format_ids_for_qiime):
 @asset(group_name="write_data")
 def write_taxonomy_r(remove_duplicate_species):
     '''
-    write the taxonomy table to a csv compatible with r and microbiomestat
+    Step W.6: write the taxonomy table to a csv compatible with r and microbiomestat
     '''
     remove_duplicate_species.to_csv('./data_out/taxonomy_r.csv', index=False)
 
@@ -361,7 +364,7 @@ def write_taxonomy_r(remove_duplicate_species):
 @asset(group_name="write_data")
 def write_taxonomy_qiime(format_tax_for_qiime):
     '''
-    write taxonomy table to .txt for qiime compatibility
+    Step W.5: write taxonomy table to .txt for qiime compatibility
     '''
 
     format_tax_for_qiime.to_csv('./data_out/taxonomy_qiime.txt', sep='\t', index = False)
