@@ -36,7 +36,7 @@ AxioParse was built in Python as a directed acyclic graph (DAG) using Dagster. D
 echo 'NCBI_EMAIL="your.email@domain.com"' >> .env 
 echo 'NCBI_KEY="your_ncbi_key_here"' >> .env 
 ```
-7. Use the terminal command `mkdir data_out` to create a folder to contain output data.
+10. Use the terminal command `mkdir data_out` to create a folder to contain output data.
 8. Use the terminal command `printf "\ndata/\n" >> .gitignore` to add the `data` folder to the gitignore.
 
 ### Run Process in Dagster
@@ -48,7 +48,7 @@ echo 'NCBI_KEY="your_ncbi_key_here"' >> .env
 
 ## :inbox_tray: Input
 - `otu_table.txt`: OTU table downloaded directly from MiDAS software
-- `metadata.csv`: A metadata table in which each row corresponds to a single sample. Required columns are `sample_id` and `array_id` (matches column headers in `otu_table.csv`). 
+- `metadata.csv`: A metadata table in which each row corresponds to a single sample. Required columns are `sample_id` (unique sample identifiers preferred by research group) and `array_id` (unique sample identifiers provided by the Axiom system–utilize the identifiers corresponding to the DNA chip provided as column headers to `otu_table.csv`). 
 - `array_species_coverage.csv`: Phylogeny of all possible probes on the microarray. Each row is a probe, and columsn "Sequence", "Domain", and "Family" are required. Items in "Sequence" must match items in the "Target Description" column of `otu_table.txt`. This spreadsheet is provided by the Axiom group. 
 
 ## :outbox_tray: Output
